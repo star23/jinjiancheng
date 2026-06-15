@@ -1,11 +1,11 @@
 # 抓取脚本（同步金渐成最新文章）
 
-把金渐成文章同步到最新状态的三种抓取方式。输出统一写入仓库根目录的 `文章/` 目录，
+把金渐成文章同步到最新状态的四种抓取方式。输出统一写入仓库根目录的 `文章/` 目录，
 文件名 `YYYY-MM-DD 标题.md`，格式与既有存档一致，并自动重建 `文章/README.md` 索引。
 
 > ⚠️ **必须在开放网络环境运行**（你自己的机器/服务器）。
-> Claude Code 沙箱的**出网白名单**会拦截 `jinjiancheng.com`、`mp.weixin.qq.com`、RSS 桥等域名
-> （实测返回 `Host not in allowlist`）；即便放行，官网有 Cloudflare、微信有反爬，仍需下列方式。
+> 如果运行环境禁止外网访问，`jinjiancheng.com`、`mp.weixin.qq.com`、RSS 桥等域名可能会被拦截；
+> 请在可联网环境运行。微信仍可能触发反爬，优先使用官网静态页同步。
 
 ## 安装
 
@@ -15,7 +15,18 @@ pip install -r requirements.txt
 playwright install chromium
 ```
 
-## 三种方式
+## 四种方式
+
+### 0. 官网静态页整站 — `scrape_site_static.py`（推荐）
+直接抓取 `https://jinjiancheng.com/articles` 分页和单篇文章页。当前官网文章列表与正文都在
+HTML 中直接返回，因此不需要 Playwright，也不需要手工提供微信链接。
+```bash
+python3 scrape_site_static.py                 # 全站同步
+python3 scrape_site_static.py --limit 30      # 只抓最新 30 篇
+python3 scrape_site_static.py --overwrite     # 覆盖同名文件
+```
+- 默认会按“标题规范化 + 日期相差不超过 3 天”跳过旧存档中的近似文章，避免旧数据日期差 1 天或标题末尾 `~` 造成重复。
+- 若官网结构改版导致正文不在 `article div.prose` 中，再考虑方式 3 的 Playwright 方案。
 
 ### 1. 单篇微信文章 — `fetch_wechat_article.py`
 最简单，适合手动补单篇（如你给的链接）。
@@ -38,7 +49,7 @@ python3 wechat_rss_sync.py "<feed1>" "<feed2>" --refetch   # 正文不全时回�
 - **werss / feeddd** 等托管服务：注册后获取该公众号 feed 链接
 
 ### 3. 官网整站 — `scrape_site_playwright.py`
-用真实浏览器渲染、过 Cloudflare，爬取 jinjiancheng.com 全部文章。
+用真实浏览器渲染官网页面。当前仅作为静态页方案失效后的备用方案。
 ```bash
 python3 scrape_site_playwright.py --limit 20            # 先小批量调试
 python3 scrape_site_playwright.py --headful             # 卡验证时人工通过

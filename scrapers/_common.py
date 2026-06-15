@@ -1,6 +1,7 @@
 """共享工具：文章 Markdown 落盘、文件名清洗、索引重建、HTML 转文本。
 
-被 fetch_wechat_article.py / wechat_rss_sync.py / scrape_site_playwright.py 复用。
+被 fetch_wechat_article.py / wechat_rss_sync.py / scrape_site_playwright.py /
+scrape_site_static.py 复用。
 输出格式与仓库 `文章/` 目录中既有文件保持一致。
 """
 from __future__ import annotations
@@ -53,6 +54,7 @@ def write_article_md(title: str, author: str, date: str, content: str,
     os.makedirs(out_dir, exist_ok=True)
     title = (title or "无标题").strip()
     date = (date or "0000-00-00").strip()[:10]
+    content = "\n".join(line.rstrip() for line in (content or "").splitlines()).strip()
     wc = count_words(content)
     fn = f"{date} {sanitize_filename(title)}.md"
     path = os.path.join(out_dir, fn)
@@ -110,7 +112,7 @@ def rebuild_index(out_dir: str = DEFAULT_OUT) -> int:
         "# 金渐成 历史文章存档\n",
         f"\n本目录收录金渐成（玑哥 / 金不换）公众号《金渐成》《天机奇谈》的历史文章，"
         f"共 **{len(rows)}** 篇，时间跨度 **{dmin} ～ {dmax}**。\n",
-        "\n> 来源：https://jinjiancheng.com/ 及其微信公众号。\n",
+        "\n> 来源：https://jinjiancheng.com/。\n",
         "\n## 文章列表（按时间倒序）\n",
         "\n| 日期 | 标题 | 字数 |",
         "| --- | --- | --- |",

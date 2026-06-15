@@ -1,2252 +1,4466 @@
 [
  {
+  "date": "2020-02-17",
+  "title": "恒大的一箭三雕众房企的东施效颦",
+  "author": "天机奇谈",
+  "word_count": 4943
+ },
+ {
+  "date": "2020-03-18",
+  "title": "又一个被房企视若珍宝的垃圾排行榜出炉了",
+  "author": "天机奇谈",
+  "word_count": 3033
+ },
+ {
+  "date": "2020-04-27",
+  "title": "碧桂园接盘融创被罚泰禾影分身",
+  "author": "天机奇谈",
+  "word_count": 4188
+ },
+ {
+  "date": "2020-05-12",
+  "title": "闽系房企泰禾集团董事长黄其森再次被列为被执行人金额18亿元",
+  "author": "天机奇谈",
+  "word_count": 2074
+ },
+ {
+  "date": "2020-05-14",
+  "title": "昨日经理人今日背锅侠从派系争斗的牺牲品窥行业弊病",
+  "author": "天机奇谈",
+  "word_count": 2981
+ },
+ {
+  "date": "2020-05-18",
+  "title": "绿地绿帽事件全盘分析及潜在的处理结果",
+  "author": "天机奇谈",
+  "word_count": 3510
+ },
+ {
+  "date": "2020-05-19",
+  "title": "绿地绿帽事件的第四种可能及战术打法",
+  "author": "天机奇谈",
+  "word_count": 941
+ },
+ {
+  "date": "2020-05-20",
+  "title": "绿地绿帽事件出初步处理结果大佬的女人们如何保全自身权益",
+  "author": "天机奇谈",
+  "word_count": 1812
+ },
+ {
+  "date": "2020-05-21",
+  "title": "我们不裁员不减薪但裁校招生欠薪拖欠钱款爱装逼",
+  "author": "天机奇谈",
+  "word_count": 2978
+ },
+ {
+  "date": "2020-05-22",
+  "title": "房企负面的典型代表",
+  "author": "天机奇谈",
+  "word_count": 3060
+ },
+ {
+  "date": "2020-05-25",
+  "title": "房企是如何弄虚作假的",
+  "author": "天机奇谈",
+  "word_count": 3112
+ },
+ {
+  "date": "2020-05-27",
+  "title": "泰禾第一大股东股权被司法冻结涉及诉讼金额2931亿",
+  "author": "天机奇谈",
+  "word_count": 1505
+ },
+ {
+  "date": "2020-06-02",
+  "title": "瞧又一家吹牛逼的房企",
+  "author": "天机奇谈",
+  "word_count": 2287
+ },
+ {
+  "date": "2020-06-11",
+  "title": "2020年房企死于吹牛逼",
+  "author": "天机奇谈",
+  "word_count": 2417
+ },
+ {
+  "date": "2020-07-09",
+  "title": "泰禾必须倒房地产才能活",
+  "author": "天机奇谈",
+  "word_count": 3122
+ },
+ {
+  "date": "2020-07-31",
+  "title": "万科接盘泰禾净喝酒菜呢",
+  "author": "天机奇谈",
+  "word_count": 2187
+ },
+ {
+  "date": "2020-08-11",
+  "title": "瞧又一个沙雕团建",
+  "author": "天机奇谈",
+  "word_count": 2007
+ },
+ {
+  "date": "2020-09-24",
+  "title": "废柴木炭你胆敢把公司当成家",
+  "author": "天机奇谈",
+  "word_count": 2552
+ },
+ {
+  "date": "2020-09-25",
+  "title": "恒大辟谣网传报告有且只能是谣言",
+  "author": "天机奇谈",
+  "word_count": 2853
+ },
+ {
+  "date": "2020-10-26",
+  "title": "2020年地产圈的四大未解之谜",
+  "author": "天机奇谈",
+  "word_count": 3186
+ },
+ {
+  "date": "2020-10-28",
+  "title": "对潜规则勇敢说不为这位抗争的女孩子点赞",
+  "author": "天机奇谈",
+  "word_count": 2278
+ },
+ {
+  "date": "2020-11-23",
+  "title": "地产公众号造假有多严重",
+  "author": "天机奇谈",
+  "word_count": 4355
+ },
+ {
+  "date": "2020-11-25",
+  "title": "四大悲住租房遇蛋壳带看遇贝壳买房遇泰禾交房碧桂园",
+  "author": "天机奇谈",
+  "word_count": 2902
+ },
+ {
+  "date": "2020-11-30",
+  "title": "骚不过融创招了个被判刑的职业经理人做高管",
+  "author": "天机奇谈",
+  "word_count": 2142
+ },
+ {
+  "date": "2021-01-10",
+  "title": "2021年碧桂园集团工作会议杨国强给莫斌题了8个字",
+  "author": "天机奇谈",
+  "word_count": 3278
+ },
+ {
+  "date": "2021-01-13",
+  "title": "房企人祸之乱",
+  "author": "天机奇谈",
+  "word_count": 2895
+ },
+ {
+  "date": "2021-01-18",
+  "title": "碧桂园你出来走两步给大家看看",
+  "author": "天机奇谈",
+  "word_count": 1598
+ },
+ {
+  "date": "2021-01-21",
+  "title": "从桃色事件和贪腐问题看房企的原则底线和用人门槛",
+  "author": "天机奇谈",
+  "word_count": 2127
+ },
+ {
+  "date": "2021-01-27",
+  "title": "地产公众号如何年入千万",
+  "author": "天机奇谈",
+  "word_count": 2198
+ },
+ {
+  "date": "2021-01-28",
+  "title": "金科无玉律藏有铁疙瘩",
+  "author": "天机奇谈",
+  "word_count": 2931
+ },
+ {
+  "date": "2021-02-07",
+  "title": "房企裁员之九式贱法",
+  "author": "天机奇谈",
+  "word_count": 2841
+ },
+ {
+  "date": "2021-02-17",
+  "title": "越牛逼的房企越爱发年终奖",
+  "author": "天机奇谈",
+  "word_count": 2612
+ },
+ {
+  "date": "2021-02-24",
+  "title": "35岁地产人的职场荣枯线",
+  "author": "天机奇谈",
+  "word_count": 2179
+ },
+ {
+  "date": "2021-03-04",
+  "title": "千亿房企曝贪腐案集团营销总经理等人被处理",
+  "author": "天机奇谈",
+  "word_count": 2734
+ },
+ {
+  "date": "2021-03-17",
+  "title": "原碧桂园区域总裁华鸿嘉信总裁被捕",
+  "author": "天机奇谈",
+  "word_count": 2125
+ },
+ {
+  "date": "2021-03-27",
+  "title": "皇帝的新装恒大的水军",
+  "author": "天机奇谈",
+  "word_count": 4162
+ },
+ {
+  "date": "2021-03-31",
+  "title": "强势围观中南置地涉巨额贪腐总裁接受庭审的4小时",
+  "author": "天机奇谈",
+  "word_count": 1714
+ },
+ {
+  "date": "2021-04-19",
+  "title": "在上海车展看了恒大汽车的葫芦娃兄弟和特斯拉维权事件",
+  "author": "天机奇谈",
+  "word_count": 4133
+ },
+ {
+  "date": "2021-04-23",
+  "title": "从中梁反腐看索贿门道碧桂园调整猎头供应商管理",
+  "author": "天机奇谈",
+  "word_count": 2845
+ },
+ {
+  "date": "2021-06-02",
+  "title": "房地产行业是如何洗钱的",
+  "author": "天机奇谈",
+  "word_count": 2555
+ },
+ {
+  "date": "2021-06-15",
+  "title": "恒大方向不对努力白费",
+  "author": "天机奇谈",
+  "word_count": 2196
+ },
+ {
+  "date": "2021-07-07",
+  "title": "蓝光何以至此将往何方",
+  "author": "天机奇谈",
+  "word_count": 2638
+ },
+ {
+  "date": "2021-07-16",
+  "title": "钱紧众生相恒大牵宝能泰禾映金科",
+  "author": "天机奇谈",
+  "word_count": 2808
+ },
+ {
+  "date": "2021-07-20",
+  "title": "针凡传我的恒大你忍一下",
+  "author": "天机奇谈",
+  "word_count": 2651
+ },
+ {
+  "date": "2021-07-26",
+  "title": "融创的钱究竟从哪来的",
+  "author": "天机奇谈",
+  "word_count": 2922
+ },
+ {
+  "date": "2021-08-09",
+  "title": "房企阿里价值观",
+  "author": "天机奇谈",
+  "word_count": 2590
+ },
+ {
+  "date": "2021-08-12",
+  "title": "恒大的未来",
+  "author": "天机奇谈",
+  "word_count": 3288
+ },
+ {
+  "date": "2021-08-18",
+  "title": "许家印卸任恒大地产董事长富豪的风险切割术与财富保全术",
+  "author": "天机奇谈",
+  "word_count": 3560
+ },
+ {
+  "date": "2021-08-26",
+  "title": "裁员如潮涌跳槽易跳坑",
+  "author": "天机奇谈",
+  "word_count": 2738
+ },
+ {
+  "date": "2021-08-31",
+  "title": "昨日许家印在恒大内部开了个会有些点值得关注未来两三年恒大的重点是确保交楼",
+  "author": "天机奇谈",
+  "word_count": 296
+ },
+ {
+  "date": "2021-09-07",
+  "title": "大房企裁员的事闹得有点大被裁员时做好证据保存包括聊天记录和录音视频等维护",
+  "author": "天机奇谈",
+  "word_count": 297
+ },
+ {
+  "date": "2021-09-10",
+  "title": "恒大财富的事一直在关注没发文一是怕引起恐慌二是等恒大8号晚上会议给出的兑",
+  "author": "天机奇谈",
+  "word_count": 296
+ },
+ {
+  "date": "2021-09-14",
+  "title": "恒大还在财富没了",
+  "author": "天机奇谈",
+  "word_count": 1917
+ },
+ {
+  "date": "2021-09-27",
+  "title": "碧桂园今天开了个高管会议誓师责任状的内容主要有五点n全年8000亿目标誓",
+  "author": "天机奇谈",
+  "word_count": 296
+ },
+ {
+  "date": "2021-09-28",
+  "title": "房企的骚扭了我的腰",
+  "author": "天机奇谈",
+  "word_count": 2410
+ },
+ {
+  "date": "2021-10-27",
+  "title": "让许家印掏钱救恒大",
+  "author": "天机奇谈",
+  "word_count": 3854
+ },
+ {
+  "date": "2021-11-11",
+  "title": "恒大后遗症",
+  "author": "天机奇谈",
+  "word_count": 1929
+ },
+ {
+  "date": "2021-11-15",
+  "title": "理财接连暴雷房企自融平台何去何从",
+  "author": "天机奇谈",
+  "word_count": 2580
+ },
+ {
+  "date": "2021-11-17",
+  "title": "许家印掏70亿救恒大恒大该怎么做",
+  "author": "天机奇谈",
+  "word_count": 2182
+ },
+ {
+  "date": "2021-11-24",
+  "title": "我们一直都是普通人",
+  "author": "天机奇谈",
+  "word_count": 1855
+ },
+ {
+  "date": "2021-12-06",
+  "title": "散场的开始",
+  "author": "天机奇谈",
+  "word_count": 1642
+ },
+ {
+  "date": "2021-12-08",
+  "title": "如鲸向海退无可退",
+  "author": "天机奇谈",
+  "word_count": 1798
+ },
+ {
+  "date": "2021-12-09",
+  "title": "海啸过樱花开",
+  "author": "天机奇谈",
+  "word_count": 1407
+ },
+ {
+  "date": "2021-12-10",
+  "title": "故事与事故",
+  "author": "天机奇谈",
+  "word_count": 1779
+ },
+ {
+  "date": "2021-12-14",
+  "title": "破防了",
+  "author": "天机奇谈",
+  "word_count": 1664
+ },
+ {
+  "date": "2021-12-16",
+  "title": "以舅换薪",
+  "author": "天机奇谈",
+  "word_count": 2272
+ },
+ {
+  "date": "2021-12-17",
+  "title": "薪净自然凉",
+  "author": "天机奇谈",
+  "word_count": 2161
+ },
+ {
+  "date": "2021-12-20",
+  "title": "盛宴已开启",
+  "author": "天机奇谈",
+  "word_count": 2465
+ },
+ {
+  "date": "2021-12-21",
+  "title": "提虎灌顶",
+  "author": "天机奇谈",
+  "word_count": 2089
+ },
+ {
+  "date": "2021-12-23",
+  "title": "此弟不宜久留",
+  "author": "天机奇谈",
+  "word_count": 1970
+ },
+ {
+  "date": "2021-12-27",
+  "title": "只见皮相未见骨相",
+  "author": "天机奇谈",
+  "word_count": 2153
+ },
+ {
+  "date": "2022-01-05",
+  "title": "全都是泡沫",
+  "author": "天机奇谈",
+  "word_count": 2362
+ },
+ {
+  "date": "2022-01-06",
+  "title": "最苦是白衣",
+  "author": "天机奇谈",
+  "word_count": 2475
+ },
+ {
+  "date": "2022-01-10",
+  "title": "死鸭子嘴硬兜比脸干净",
+  "author": "天机奇谈",
+  "word_count": 2281
+ },
+ {
+  "date": "2022-01-17",
+  "title": "怎知风雨挂东楼",
+  "author": "天机奇谈",
+  "word_count": 2397
+ },
+ {
+  "date": "2022-01-18",
+  "title": "狂人日技",
+  "author": "天机奇谈",
+  "word_count": 2372
+ },
+ {
+  "date": "2022-01-20",
+  "title": "呸渣男",
+  "author": "天机奇谈",
+  "word_count": 2044
+ },
+ {
+  "date": "2022-01-24",
+  "title": "偷梁换柱名利双收",
+  "author": "天机奇谈",
+  "word_count": 2075
+ },
+ {
+  "date": "2022-01-26",
+  "title": "条条大路通骡马",
+  "author": "天机奇谈",
+  "word_count": 1988
+ },
+ {
+  "date": "2022-01-28",
+  "title": "红运当头",
+  "author": "天机奇谈",
+  "word_count": 785
+ },
+ {
+  "date": "2022-02-11",
+  "title": "正荣地产和正荣服务大跌几乎所有媒体清一色在说遭机构做空反而有点公关稿件的",
+  "author": "天机奇谈",
+  "word_count": 295
+ },
+ {
+  "date": "2022-02-28",
+  "title": "江湖显饿",
+  "author": "天机奇谈",
+  "word_count": 2582
+ },
+ {
+  "date": "2022-03-01",
+  "title": "满汗全席满汉全席",
+  "author": "天机奇谈",
+  "word_count": 2491
+ },
+ {
+  "date": "2022-03-02",
+  "title": "等待戈多",
+  "author": "天机奇谈",
+  "word_count": 2592
+ },
+ {
+  "date": "2022-03-03",
+  "title": "出淤泥尔不染",
+  "author": "天机奇谈",
+  "word_count": 2880
+ },
+ {
+  "date": "2022-03-07",
+  "title": "端起夜壶一饮而尽",
+  "author": "天机奇谈",
+  "word_count": 2309
+ },
+ {
+  "date": "2022-03-09",
+  "title": "癞蛤蟆装青蛙",
+  "author": "天机奇谈",
+  "word_count": 2484
+ },
+ {
+  "date": "2022-03-10",
+  "title": "富了方丈跑了和尚",
+  "author": "天机奇谈",
+  "word_count": 2387
+ },
+ {
+  "date": "2022-03-28",
+  "title": "至暗时刻",
+  "author": "天机奇谈",
+  "word_count": 2101
+ },
+ {
+  "date": "2022-03-30",
+  "title": "暗渡陈仓",
+  "author": "天机奇谈",
+  "word_count": 2683
+ },
+ {
+  "date": "2022-04-14",
+  "title": "青蛙上马路",
+  "author": "天机奇谈",
+  "word_count": 2424
+ },
+ {
+  "date": "2022-04-19",
+  "title": "来大郎把药喝了",
+  "author": "天机奇谈",
+  "word_count": 2389
+ },
+ {
+  "date": "2022-04-20",
+  "title": "大难不死必有下回",
+  "author": "天机奇谈",
+  "word_count": 2514
+ },
+ {
+  "date": "2022-04-21",
+  "title": "钱去哪了",
+  "author": "天机奇谈",
+  "word_count": 2343
+ },
+ {
+  "date": "2022-04-22",
+  "title": "见过花开的人",
+  "author": "天机奇谈",
+  "word_count": 2843
+ },
+ {
+  "date": "2022-04-26",
+  "title": "我们走了一些弯路",
+  "author": "天机奇谈",
+  "word_count": 2615
+ },
+ {
+  "date": "2022-04-27",
+  "title": "涨价去人口",
+  "author": "天机奇谈",
+  "word_count": 2507
+ },
+ {
+  "date": "2022-05-18",
+  "title": "永不回头的春天",
+  "author": "天机奇谈",
+  "word_count": 3220
+ },
+ {
+  "date": "2022-05-19",
+  "title": "永不生锈的爱",
+  "author": "天机奇谈",
+  "word_count": 2897
+ },
+ {
+  "date": "2022-05-20",
+  "title": "妈妈再爱我一次",
+  "author": "天机奇谈",
+  "word_count": 2699
+ },
+ {
+  "date": "2022-05-23",
+  "title": "错的爱情像尿床",
+  "author": "天机奇谈",
+  "word_count": 2555
+ },
+ {
+  "date": "2022-05-24",
+  "title": "翻身当爹",
+  "author": "天机奇谈",
+  "word_count": 2930
+ },
+ {
+  "date": "2022-05-25",
+  "title": "人到中年半出家",
+  "author": "天机奇谈",
+  "word_count": 2870
+ },
+ {
+  "date": "2022-05-26",
+  "title": "大浪淘沙",
+  "author": "天机奇谈",
+  "word_count": 2732
+ },
+ {
+  "date": "2022-06-01",
+  "title": "一切都将逝去",
+  "author": "天机奇谈",
+  "word_count": 2521
+ },
+ {
+  "date": "2022-06-20",
+  "title": "远航归来",
+  "author": "天机奇谈",
+  "word_count": 3068
+ },
+ {
+  "date": "2022-06-21",
+  "title": "尘土人间多少事",
+  "author": "天机奇谈",
+  "word_count": 2978
+ },
+ {
+  "date": "2022-06-22",
+  "title": "如果总是在流泪如何看见满天星光",
+  "author": "天机奇谈",
+  "word_count": 2867
+ },
+ {
+  "date": "2022-06-23",
+  "title": "未来三个月挺关键",
+  "author": "天机奇谈",
+  "word_count": 2307
+ },
+ {
+  "date": "2022-06-28",
+  "title": "下一程",
+  "author": "天机奇谈",
+  "word_count": 2415
+ },
+ {
+  "date": "2022-06-30",
+  "title": "终点",
+  "author": "天机奇谈",
+  "word_count": 1826
+ },
+ {
+  "date": "2022-07-04",
+  "title": "走错道",
+  "author": "天机奇谈",
+  "word_count": 2585
+ },
+ {
+  "date": "2022-07-06",
+  "title": "搞钱",
+  "author": "天机奇谈",
+  "word_count": 2531
+ },
+ {
+  "date": "2022-07-07",
+  "title": "被包养",
+  "author": "天机奇谈",
+  "word_count": 2643
+ },
+ {
+  "date": "2022-07-11",
+  "title": "停贷",
+  "author": "天机奇谈",
+  "word_count": 3034
+ },
+ {
+  "date": "2022-07-13",
+  "title": "你是来找猹的吧",
+  "author": "天机奇谈",
+  "word_count": 1243
+ },
+ {
+  "date": "2022-07-15",
+  "title": "动态还贷",
+  "author": "天机奇谈",
+  "word_count": 1792
+ },
+ {
+  "date": "2022-07-20",
+  "title": "房企人祸之乱",
+  "author": "天机奇谈",
+  "word_count": 2681
+ },
+ {
+  "date": "2022-07-23",
+  "title": "恒大再度上演让领导先走n子公司恒大物业用自己的存款为第三方公司提供贷款担",
+  "author": "天机奇谈",
+  "word_count": 294
+ },
+ {
+  "date": "2022-07-28",
+  "title": "守与变",
+  "author": "天机奇谈",
+  "word_count": 3449
+ },
+ {
+  "date": "2022-07-30",
+  "title": "它来了",
+  "author": "天机奇谈",
+  "word_count": 1975
+ },
+ {
+  "date": "2022-08-04",
+  "title": "提前还贷",
+  "author": "天机奇谈",
+  "word_count": 2843
+ },
+ {
+  "date": "2022-08-05",
+  "title": "向前走",
+  "author": "天机奇谈",
+  "word_count": 1594
+ },
+ {
+  "date": "2022-08-08",
+  "title": "落幕",
+  "author": "天机奇谈",
+  "word_count": 2566
+ },
+ {
+  "date": "2022-08-20",
+  "title": "遁",
+  "author": "天机奇谈",
+  "word_count": 849
+ },
+ {
+  "date": "2022-08-22",
+  "title": "灌水",
+  "author": "天机奇谈",
+  "word_count": 1392
+ },
+ {
+  "date": "2022-08-23",
+  "title": "危",
+  "author": "天机奇谈",
+  "word_count": 1881
+ },
+ {
+  "date": "2022-08-26",
+  "title": "爽",
+  "author": "天机奇谈",
+  "word_count": 800
+ },
+ {
+  "date": "2022-09-06",
+  "title": "信心",
+  "author": "天机奇谈",
+  "word_count": 1399
+ },
+ {
+  "date": "2022-09-08",
+  "title": "渣男",
+  "author": "天机奇谈",
+  "word_count": 2677
+ },
+ {
+  "date": "2022-09-18",
+  "title": "戏精",
+  "author": "天机奇谈",
+  "word_count": 2146
+ },
+ {
+  "date": "2022-09-20",
+  "title": "水深",
+  "author": "天机奇谈",
+  "word_count": 2101
+ },
+ {
+  "date": "2022-09-26",
+  "title": "新的开始",
+  "author": "天机奇谈",
+  "word_count": 1259
+ },
+ {
+  "date": "2022-10-12",
+  "title": "迹象",
+  "author": "天机奇谈",
+  "word_count": 1600
+ },
+ {
+  "date": "2022-10-14",
+  "title": "炸裂",
+  "author": "天机奇谈",
+  "word_count": 2622
+ },
+ {
+  "date": "2022-10-20",
+  "title": "爸气外露",
+  "author": "天机奇谈",
+  "word_count": 3022
+ },
+ {
+  "date": "2022-10-29",
+  "title": "临阵换帅",
+  "author": "天机奇谈",
+  "word_count": 2119
+ },
+ {
+  "date": "2022-11-01",
+  "title": "说几句心里话",
+  "author": "天机奇谈",
+  "word_count": 874
+ },
+ {
+  "date": "2022-11-02",
+  "title": "又结了一次婚",
+  "author": "天机奇谈",
+  "word_count": 2277
+ },
+ {
+  "date": "2022-11-04",
+  "title": "偏爱",
+  "author": "天机奇谈",
+  "word_count": 626
+ },
+ {
   "date": "2022-11-05",
   "title": "想不出标题",
-  "author": "金不换",
-  "word_count": 935
+  "author": "金渐成",
+  "word_count": 933
  },
  {
   "date": "2022-11-06",
   "title": "粪坑拾豆",
-  "author": "金不换",
-  "word_count": 1155
+  "author": "金渐成",
+  "word_count": 1152
+ },
+ {
+  "date": "2022-11-07",
+  "title": "抄底",
+  "author": "天机奇谈",
+  "word_count": 2410
  },
  {
   "date": "2022-11-07",
   "title": "挨打天团",
-  "author": "金不换",
-  "word_count": 1227
+  "author": "金渐成",
+  "word_count": 1225
  },
  {
   "date": "2022-11-08",
-  "title": "狗血~",
-  "author": "金不换",
-  "word_count": 1282
+  "title": "狗血",
+  "author": "金渐成",
+  "word_count": 1279
  },
  {
   "date": "2022-11-09",
-  "title": "蹦迪~",
-  "author": "金不换",
-  "word_count": 1420
+  "title": "强硬",
+  "author": "天机奇谈",
+  "word_count": 2456
+ },
+ {
+  "date": "2022-11-09",
+  "title": "蹦迪",
+  "author": "金渐成",
+  "word_count": 1415
  },
  {
   "date": "2022-11-10",
   "title": "预判",
-  "author": "金不换",
-  "word_count": 1462
+  "author": "金渐成",
+  "word_count": 1459
  },
  {
   "date": "2022-11-11",
   "title": "天微亮",
-  "author": "金不换",
-  "word_count": 440
+  "author": "金渐成",
+  "word_count": 548
+ },
+ {
+  "date": "2022-11-11",
+  "title": "暴雷与放水",
+  "author": "天机奇谈",
+  "word_count": 2903
+ },
+ {
+  "date": "2022-11-13",
+  "title": "救市",
+  "author": "天机奇谈",
+  "word_count": 1912
+ },
+ {
+  "date": "2022-11-14",
+  "title": "很重要的一件事",
+  "author": "天机奇谈",
+  "word_count": 942
+ },
+ {
+  "date": "2022-11-17",
+  "title": "远处的饼",
+  "author": "天机奇谈",
+  "word_count": 2632
+ },
+ {
+  "date": "2022-11-21",
+  "title": "窟窿",
+  "author": "天机奇谈",
+  "word_count": 2551
+ },
+ {
+  "date": "2022-11-22",
+  "title": "变故",
+  "author": "天机奇谈",
+  "word_count": 1974
+ },
+ {
+  "date": "2022-11-24",
+  "title": "救命与活命",
+  "author": "天机奇谈",
+  "word_count": 1289
  },
  {
   "date": "2022-11-28",
   "title": "利好",
-  "author": "金不换",
-  "word_count": 988
+  "author": "金渐成",
+  "word_count": 986
+ },
+ {
+  "date": "2022-11-28",
+  "title": "结束与开始",
+  "author": "天机奇谈",
+  "word_count": 1116
+ },
+ {
+  "date": "2022-11-29",
+  "title": "还阳术",
+  "author": "天机奇谈",
+  "word_count": 1904
+ },
+ {
+  "date": "2022-12-02",
+  "title": "大梦一场",
+  "author": "天机奇谈",
+  "word_count": 2030
+ },
+ {
+  "date": "2022-12-07",
+  "title": "惊喜",
+  "author": "天机奇谈",
+  "word_count": 1400
+ },
+ {
+  "date": "2022-12-09",
+  "title": "老乡别走有利好",
+  "author": "天机奇谈",
+  "word_count": 3027
+ },
+ {
+  "date": "2022-12-13",
+  "title": "行贿",
+  "author": "天机奇谈",
+  "word_count": 2541
+ },
+ {
+  "date": "2022-12-16",
+  "title": "负甲一方",
+  "author": "天机奇谈",
+  "word_count": 2539
+ },
+ {
+  "date": "2022-12-19",
+  "title": "调查",
+  "author": "天机奇谈",
+  "word_count": 1554
+ },
+ {
+  "date": "2022-12-21",
+  "title": "恶意讨钱",
+  "author": "天机奇谈",
+  "word_count": 2828
+ },
+ {
+  "date": "2022-12-23",
+  "title": "希望",
+  "author": "天机奇谈",
+  "word_count": 2590
  },
  {
   "date": "2022-12-26",
   "title": "发了点小财",
-  "author": "金不换",
-  "word_count": 1057
+  "author": "金渐成",
+  "word_count": 1055
+ },
+ {
+  "date": "2022-12-26",
+  "title": "打嘴炮救不了房地产",
+  "author": "天机奇谈",
+  "word_count": 1048
+ },
+ {
+  "date": "2022-12-28",
+  "title": "高山阳止",
+  "author": "天机奇谈",
+  "word_count": 2215
+ },
+ {
+  "date": "2022-12-29",
+  "title": "我阳了",
+  "author": "天机奇谈",
+  "word_count": 954
+ },
+ {
+  "date": "2023-01-05",
+  "title": "一地鸡毛",
+  "author": "天机奇谈",
+  "word_count": 1541
+ },
+ {
+  "date": "2023-01-10",
+  "title": "操作太骚",
+  "author": "天机奇谈",
+  "word_count": 2983
+ },
+ {
+  "date": "2023-02-15",
+  "title": "尿床",
+  "author": "天机奇谈",
+  "word_count": 2337
+ },
+ {
+  "date": "2023-02-16",
+  "title": "传宗接贷",
+  "author": "天机奇谈",
+  "word_count": 2716
+ },
+ {
+  "date": "2023-02-21",
+  "title": "孕气十足",
+  "author": "天机奇谈",
+  "word_count": 2235
+ },
+ {
+  "date": "2023-02-26",
+  "title": "事态开始严重了",
+  "author": "天机奇谈",
+  "word_count": 1137
+ },
+ {
+  "date": "2023-02-27",
+  "title": "做梦",
+  "author": "天机奇谈",
+  "word_count": 2739
+ },
+ {
+  "date": "2023-03-01",
+  "title": "退隐",
+  "author": "天机奇谈",
+  "word_count": 2745
+ },
+ {
+  "date": "2023-03-06",
+  "title": "坟地产",
+  "author": "天机奇谈",
+  "word_count": 1420
+ },
+ {
+  "date": "2023-03-09",
+  "title": "按律当诛",
+  "author": "天机奇谈",
+  "word_count": 2683
+ },
+ {
+  "date": "2023-03-16",
+  "title": "被改变的人生",
+  "author": "天机奇谈",
+  "word_count": 2614
+ },
+ {
+  "date": "2023-03-17",
+  "title": "大变脸",
+  "author": "天机奇谈",
+  "word_count": 1965
+ },
+ {
+  "date": "2023-03-23",
+  "title": "许家印画饼",
+  "author": "天机奇谈",
+  "word_count": 2841
+ },
+ {
+  "date": "2023-03-29",
+  "title": "摸着石头过河",
+  "author": "天机奇谈",
+  "word_count": 3363
+ },
+ {
+  "date": "2023-04-13",
+  "title": "一声叹息",
+  "author": "天机奇谈",
+  "word_count": 2780
+ },
+ {
+  "date": "2023-04-23",
+  "title": "持久才能说活好",
+  "author": "天机奇谈",
+  "word_count": 2080
+ },
+ {
+  "date": "2023-04-26",
+  "title": "满城尽是阿Q者",
+  "author": "天机奇谈",
+  "word_count": 2602
+ },
+ {
+  "date": "2023-05-05",
+  "title": "粪坑里出不了白莲花",
+  "author": "天机奇谈",
+  "word_count": 2745
+ },
+ {
+  "date": "2023-05-16",
+  "title": "烧不尽的野火",
+  "author": "天机奇谈",
+  "word_count": 1934
+ },
+ {
+  "date": "2023-05-17",
+  "title": "这里的黄昏静悄悄",
+  "author": "天机奇谈",
+  "word_count": 2723
+ },
+ {
+  "date": "2023-05-18",
+  "title": "哀莫大薪死",
+  "author": "天机奇谈",
+  "word_count": 2779
+ },
+ {
+  "date": "2023-05-19",
+  "title": "生得再平凡也是限量版",
+  "author": "天机奇谈",
+  "word_count": 2492
+ },
+ {
+  "date": "2023-05-24",
+  "title": "借尸还魂",
+  "author": "天机奇谈",
+  "word_count": 1767
+ },
+ {
+  "date": "2023-05-25",
+  "title": "失业了",
+  "author": "天机奇谈",
+  "word_count": 2602
+ },
+ {
+  "date": "2023-05-26",
+  "title": "饮鸠止渴",
+  "author": "天机奇谈",
+  "word_count": 1709
+ },
+ {
+  "date": "2023-05-29",
+  "title": "白嫖约炮卖房",
+  "author": "天机奇谈",
+  "word_count": 2279
+ },
+ {
+  "date": "2023-05-30",
+  "title": "仙人跳",
+  "author": "天机奇谈",
+  "word_count": 2306
+ },
+ {
+  "date": "2023-05-31",
+  "title": "你刑不刑啊",
+  "author": "天机奇谈",
+  "word_count": 2536
+ },
+ {
+  "date": "2023-06-01",
+  "title": "风向逆转了",
+  "author": "天机奇谈",
+  "word_count": 2400
+ },
+ {
+  "date": "2023-06-02",
+  "title": "与民争利",
+  "author": "天机奇谈",
+  "word_count": 2293
+ },
+ {
+  "date": "2023-06-06",
+  "title": "大势已去",
+  "author": "天机奇谈",
+  "word_count": 2063
+ },
+ {
+  "date": "2023-06-08",
+  "title": "万万没想到",
+  "author": "天机奇谈",
+  "word_count": 1662
+ },
+ {
+  "date": "2023-06-12",
+  "title": "房事好商量",
+  "author": "天机奇谈",
+  "word_count": 2032
+ },
+ {
+  "date": "2023-06-13",
+  "title": "绝贷佳人",
+  "author": "天机奇谈",
+  "word_count": 2113
+ },
+ {
+  "date": "2023-06-14",
+  "title": "偷鸡摸狗",
+  "author": "天机奇谈",
+  "word_count": 1058
+ },
+ {
+  "date": "2023-06-19",
+  "title": "暴雷房企的未来",
+  "author": "天机奇谈",
+  "word_count": 2336
+ },
+ {
+  "date": "2023-07-07",
+  "title": "新的风暴",
+  "author": "天机奇谈",
+  "word_count": 1518
+ },
+ {
+  "date": "2023-07-11",
+  "title": "负债前行",
+  "author": "天机奇谈",
+  "word_count": 2314
+ },
+ {
+  "date": "2023-07-14",
+  "title": "希望来啦",
+  "author": "天机奇谈",
+  "word_count": 1644
+ },
+ {
+  "date": "2023-07-17",
+  "title": "透心凉",
+  "author": "天机奇谈",
+  "word_count": 1848
+ },
+ {
+  "date": "2023-07-18",
+  "title": "负可敌国",
+  "author": "天机奇谈",
+  "word_count": 2109
  },
  {
   "date": "2023-07-20",
   "title": "我的2023",
-  "author": "金不换",
-  "word_count": 1196
+  "author": "金渐成",
+  "word_count": 1198
  },
  {
   "date": "2023-07-21",
-  "title": "挑刺~",
-  "author": "金不换",
-  "word_count": 1386
+  "title": "挑刺",
+  "author": "金渐成",
+  "word_count": 1383
  },
  {
   "date": "2023-07-22",
-  "title": "养猪呢？",
-  "author": "金不换",
-  "word_count": 1474
+  "title": "养猪呢",
+  "author": "金渐成",
+  "word_count": 1471
  },
  {
   "date": "2023-07-23",
-  "title": "暴富~",
-  "author": "金不换",
-  "word_count": 1702
+  "title": "暴富",
+  "author": "金渐成",
+  "word_count": 1697
  },
  {
   "date": "2023-07-25",
-  "title": "双喜临门～",
-  "author": "金不换",
-  "word_count": 802
+  "title": "双喜临门",
+  "author": "金渐成",
+  "word_count": 887
+ },
+ {
+  "date": "2023-07-25",
+  "title": "苦尽甘来or丧事喜办",
+  "author": "天机奇谈",
+  "word_count": 2056
  },
  {
   "date": "2023-07-26",
-  "title": "转轨~",
-  "author": "金不换",
-  "word_count": 1185
+  "title": "转轨",
+  "author": "金渐成",
+  "word_count": 1189
+ },
+ {
+  "date": "2023-07-27",
+  "title": "刻舟求剑",
+  "author": "天机奇谈",
+  "word_count": 1730
  },
  {
   "date": "2023-07-28",
-  "title": "贼猛！",
-  "author": "金不换",
-  "word_count": 1347
+  "title": "贼猛",
+  "author": "金渐成",
+  "word_count": 1592
  },
  {
   "date": "2023-07-29",
   "title": "一场游戏",
-  "author": "金不换",
-  "word_count": 1800
+  "author": "金渐成",
+  "word_count": 1963
+ },
+ {
+  "date": "2023-07-30",
+  "title": "房地产变天了",
+  "author": "天机奇谈",
+  "word_count": 1808
  },
  {
   "date": "2023-07-30",
   "title": "捂股丰登",
-  "author": "金不换",
-  "word_count": 1011
+  "author": "金渐成",
+  "word_count": 1173
  },
  {
   "date": "2023-07-31",
-  "title": "暴揍~",
-  "author": "金不换",
+  "title": "暴揍",
+  "author": "金渐成",
   "word_count": 1333
  },
  {
   "date": "2023-08-01",
-  "title": "历史性时刻~",
-  "author": "金不换",
-  "word_count": 1436
+  "title": "历史性时刻",
+  "author": "金渐成",
+  "word_count": 1439
  },
  {
   "date": "2023-08-02",
   "title": "大写的尴尬",
-  "author": "金不换",
-  "word_count": 1175
+  "author": "金渐成",
+  "word_count": 1174
  },
  {
   "date": "2023-08-09",
-  "title": "浪里个浪~",
-  "author": "金不换",
-  "word_count": 1513
+  "title": "浪里个浪",
+  "author": "金渐成",
+  "word_count": 1546
  },
  {
   "date": "2023-08-10",
-  "title": "吃白食~",
-  "author": "金不换",
-  "word_count": 1673
+  "title": "吃白食",
+  "author": "金渐成",
+  "word_count": 1672
  },
  {
   "date": "2023-08-11",
-  "title": "搞钱~",
-  "author": "金不换",
-  "word_count": 1827
+  "title": "搞钱",
+  "author": "金渐成",
+  "word_count": 1839
+ },
+ {
+  "date": "2023-08-11",
+  "title": "绝代双焦",
+  "author": "天机奇谈",
+  "word_count": 2472
  },
  {
   "date": "2023-08-12",
-  "title": "三次创业~",
-  "author": "金不换",
-  "word_count": 2226
+  "title": "三次创业",
+  "author": "金渐成",
+  "word_count": 2242
  },
  {
   "date": "2023-08-13",
-  "title": "虚脱了~",
-  "author": "金不换",
-  "word_count": 1552
+  "title": "虚脱了",
+  "author": "金渐成",
+  "word_count": 1551
  },
  {
   "date": "2023-08-14",
-  "title": "碧桂园还有救吗？",
-  "author": "金不换",
-  "word_count": 1528
+  "title": "碧桂园还有救吗",
+  "author": "金渐成",
+  "word_count": 1545
  },
  {
-  "date": "2023-08-15",
-  "title": "推演～",
-  "author": "金不换",
-  "word_count": 1340
+  "date": "2023-08-16",
+  "title": "推演",
+  "author": "金渐成",
+  "word_count": 1346
+ },
+ {
+  "date": "2023-08-16",
+  "title": "搞暧昧",
+  "author": "天机奇谈",
+  "word_count": 2576
  },
  {
   "date": "2023-08-17",
   "title": "最好的下一步",
-  "author": "金玑",
-  "word_count": 1615
+  "author": "金渐成",
+  "word_count": 1618
  },
  {
   "date": "2023-08-18",
-  "title": "“垫”大欺客",
-  "author": "金玑独立",
-  "word_count": 1692
+  "title": "垫大欺客",
+  "author": "金渐成",
+  "word_count": 1701
  },
  {
   "date": "2023-08-19",
   "title": "太费爹了",
-  "author": "金不换",
-  "word_count": 1384
+  "author": "金渐成",
+  "word_count": 1710
  },
  {
   "date": "2023-08-20",
-  "title": "低调~",
-  "author": "金不换",
-  "word_count": 1651
+  "title": "低调",
+  "author": "金渐成",
+  "word_count": 1650
  },
  {
   "date": "2023-08-21",
-  "title": "奶~",
-  "author": "金不换",
-  "word_count": 528
+  "title": "奶",
+  "author": "金渐成",
+  "word_count": 850
  },
  {
   "date": "2023-08-22",
-  "title": "栖息~",
-  "author": "金不换",
-  "word_count": 1425
+  "title": "栖息",
+  "author": "金渐成",
+  "word_count": 1669
  },
  {
   "date": "2023-08-23",
-  "title": "种地~",
-  "author": "金不换",
-  "word_count": 1488
+  "title": "种地",
+  "author": "金渐成",
+  "word_count": 1809
  },
  {
   "date": "2023-08-24",
-  "title": "急转直下~",
-  "author": "金不换",
-  "word_count": 1467
+  "title": "急转直下",
+  "author": "金渐成",
+  "word_count": 1470
+ },
+ {
+  "date": "2023-08-25",
+  "title": "一声吼",
+  "author": "金渐成",
+  "word_count": 1431
+ },
+ {
+  "date": "2023-08-25",
+  "title": "甜甜的盐",
+  "author": "天机奇谈",
+  "word_count": 1502
+ },
+ {
+  "date": "2023-08-30",
+  "title": "房企的钱去哪了",
+  "author": "天机奇谈",
+  "word_count": 2611
  },
  {
   "date": "2023-08-31",
-  "title": "大事即将落地~",
-  "author": "大玑玑",
-  "word_count": 1386
+  "title": "大事即将落地",
+  "author": "金渐成",
+  "word_count": 1550
  },
  {
   "date": "2023-09-01",
-  "title": "职业扛雷~",
-  "author": "大玑玑",
-  "word_count": 1558
+  "title": "职业扛雷",
+  "author": "金渐成",
+  "word_count": 1638
  },
  {
   "date": "2023-09-02",
-  "title": "踩坑~",
-  "author": "天玑",
+  "title": "踩坑",
+  "author": "金渐成",
   "word_count": 1459
  },
  {
   "date": "2023-09-03",
-  "title": "boom~完犊子",
-  "author": "天玑",
-  "word_count": 1705
+  "title": "boom完犊子",
+  "author": "金渐成",
+  "word_count": 1716
  },
  {
   "date": "2023-09-04",
-  "title": "破圈~",
-  "author": "天玑",
+  "title": "破圈",
+  "author": "金渐成",
   "word_count": 1762
  },
  {
+  "date": "2023-09-05",
+  "title": "痛不欲生",
+  "author": "天机奇谈",
+  "word_count": 996
+ },
+ {
   "date": "2023-09-07",
-  "title": "让利~",
-  "author": "天玑",
-  "word_count": 1792
+  "title": "让利",
+  "author": "金渐成",
+  "word_count": 1810
  },
  {
   "date": "2023-09-11",
-  "title": "新的搞钱业务~",
-  "author": "天玑",
-  "word_count": 1468
+  "title": "新的搞钱业务",
+  "author": "金渐成",
+  "word_count": 1471
+ },
+ {
+  "date": "2023-09-13",
+  "title": "回光返照",
+  "author": "天机奇谈",
+  "word_count": 2662
+ },
+ {
+  "date": "2023-09-15",
+  "title": "掀开比基尼",
+  "author": "天机奇谈",
+  "word_count": 1858
  },
  {
   "date": "2023-09-17",
-  "title": "风向标~",
-  "author": "天玑",
-  "word_count": 1847
+  "title": "风向标",
+  "author": "金渐成",
+  "word_count": 1853
  },
  {
   "date": "2023-09-18",
-  "title": "一声叹息~",
-  "author": "天玑",
-  "word_count": 1699
+  "title": "一声叹息",
+  "author": "金渐成",
+  "word_count": 1710
+ },
+ {
+  "date": "2023-09-19",
+  "title": "一梦二十年",
+  "author": "天机奇谈",
+  "word_count": 2012
  },
  {
   "date": "2023-09-20",
   "title": "搞钱的诱惑",
-  "author": "天玑",
-  "word_count": 1344
+  "author": "金渐成",
+  "word_count": 1342
+ },
+ {
+  "date": "2023-09-20",
+  "title": "起风了",
+  "author": "天机奇谈",
+  "word_count": 1185
+ },
+ {
+  "date": "2023-09-21",
+  "title": "一路狂飙",
+  "author": "天机奇谈",
+  "word_count": 1400
+ },
+ {
+  "date": "2023-09-29",
+  "title": "许家印的中秋劫恒大的后遗症",
+  "author": "天机奇谈",
+  "word_count": 2516
+ },
+ {
+  "date": "2023-10-10",
+  "title": "薪贫气和",
+  "author": "天机奇谈",
+  "word_count": 1627
+ },
+ {
+  "date": "2023-10-11",
+  "title": "徙木立信",
+  "author": "天机奇谈",
+  "word_count": 1743
+ },
+ {
+  "date": "2023-10-13",
+  "title": "碧桂园的暗示",
+  "author": "天机奇谈",
+  "word_count": 1174
+ },
+ {
+  "date": "2023-10-16",
+  "title": "堵屁眼",
+  "author": "天机奇谈",
+  "word_count": 1739
+ },
+ {
+  "date": "2023-10-17",
+  "title": "一个时代开门离去",
+  "author": "天机奇谈",
+  "word_count": 2230
+ },
+ {
+  "date": "2023-10-18",
+  "title": "一路向西",
+  "author": "天机奇谈",
+  "word_count": 1836
+ },
+ {
+  "date": "2023-10-19",
+  "title": "齿轮转不动了",
+  "author": "天机奇谈",
+  "word_count": 2002
+ },
+ {
+  "date": "2023-10-20",
+  "title": "相由薪生",
+  "author": "天机奇谈",
+  "word_count": 1211
+ },
+ {
+  "date": "2023-10-23",
+  "title": "媛来如此",
+  "author": "天机奇谈",
+  "word_count": 1671
+ },
+ {
+  "date": "2023-10-24",
+  "title": "一切都是最好的安排",
+  "author": "天机奇谈",
+  "word_count": 1782
+ },
+ {
+  "date": "2023-10-25",
+  "title": "万亿终究一场空",
+  "author": "天机奇谈",
+  "word_count": 1864
+ },
+ {
+  "date": "2023-10-26",
+  "title": "黄粱一梦",
+  "author": "天机奇谈",
+  "word_count": 2191
+ },
+ {
+  "date": "2023-10-27",
+  "title": "一定要扛下去",
+  "author": "天机奇谈",
+  "word_count": 2187
+ },
+ {
+  "date": "2023-10-31",
+  "title": "大厕大悟",
+  "author": "天机奇谈",
+  "word_count": 2160
+ },
+ {
+  "date": "2023-11-01",
+  "title": "万科的坎",
+  "author": "天机奇谈",
+  "word_count": 1973
+ },
+ {
+  "date": "2023-11-06",
+  "title": "拿首好戏",
+  "author": "天机奇谈",
+  "word_count": 2172
+ },
+ {
+  "date": "2023-11-08",
+  "title": "龙凤成翔",
+  "author": "天机奇谈",
+  "word_count": 2245
  },
  {
   "date": "2023-11-14",
   "title": "上阵父子兵",
-  "author": "天玑",
-  "word_count": 1626
+  "author": "金渐成",
+  "word_count": 1944
+ },
+ {
+  "date": "2023-11-14",
+  "title": "房地产行业是如何洗钱的",
+  "author": "天机奇谈",
+  "word_count": 2671
+ },
+ {
+  "date": "2023-11-15",
+  "title": "一切还是老样子",
+  "author": "天机奇谈",
+  "word_count": 2327
  },
  {
   "date": "2023-11-16",
-  "title": "永不空军！",
-  "author": "天玑",
-  "word_count": 1698
+  "title": "人善被驴踢",
+  "author": "天机奇谈",
+  "word_count": 1788
+ },
+ {
+  "date": "2023-11-16",
+  "title": "永不空军",
+  "author": "金渐成",
+  "word_count": 1697
+ },
+ {
+  "date": "2023-11-22",
+  "title": "一群舔狗",
+  "author": "天机奇谈",
+  "word_count": 1898
+ },
+ {
+  "date": "2023-12-01",
+  "title": "齿轮再次转动",
+  "author": "天机奇谈",
+  "word_count": 1497
+ },
+ {
+  "date": "2023-12-06",
+  "title": "父愁者联盟",
+  "author": "天机奇谈",
+  "word_count": 2239
  },
  {
   "date": "2023-12-07",
-  "title": "传家宝~",
-  "author": "天玑",
-  "word_count": 1647
+  "title": "传家宝",
+  "author": "金渐成",
+  "word_count": 1645
+ },
+ {
+  "date": "2023-12-12",
+  "title": "江湖就是人情世故",
+  "author": "天机奇谈",
+  "word_count": 2021
+ },
+ {
+  "date": "2023-12-13",
+  "title": "人生如戏",
+  "author": "天机奇谈",
+  "word_count": 1928
  },
  {
   "date": "2023-12-15",
-  "title": "祝你好孕~",
-  "author": "天玑",
-  "word_count": 1622
+  "title": "祝你好孕",
+  "author": "金渐成",
+  "word_count": 1630
  },
  {
   "date": "2023-12-17",
-  "title": "差点被猪拱了~",
-  "author": "天玑",
-  "word_count": 1157
+  "title": "差点被猪拱了",
+  "author": "金渐成",
+  "word_count": 1155
+ },
+ {
+  "date": "2023-12-18",
+  "title": "遍地英雄下夕阳",
+  "author": "天机奇谈",
+  "word_count": 1884
  },
  {
   "date": "2023-12-20",
-  "title": "变化真大！",
-  "author": "天玑",
-  "word_count": 1493
+  "title": "变化真大",
+  "author": "金渐成",
+  "word_count": 1492
+ },
+ {
+  "date": "2023-12-26",
+  "title": "虚惊一场",
+  "author": "天机奇谈",
+  "word_count": 1986
+ },
+ {
+  "date": "2023-12-27",
+  "title": "过去与未来",
+  "author": "天机奇谈",
+  "word_count": 3435
  },
  {
   "date": "2023-12-28",
-  "title": "算算我今年亏了多少钱？",
-  "author": "天玑",
-  "word_count": 1430
+  "title": "算算我今年亏了多少钱",
+  "author": "金渐成",
+  "word_count": 1438
+ },
+ {
+  "date": "2023-12-29",
+  "title": "地产江湖2023",
+  "author": "天机奇谈",
+  "word_count": 2680
+ },
+ {
+  "date": "2024-01-01",
+  "title": "当时间来敲门",
+  "author": "天机奇谈",
+  "word_count": 680
+ },
+ {
+  "date": "2024-01-04",
+  "title": "地产终局拼爹时代",
+  "author": "天机奇谈",
+  "word_count": 2726
+ },
+ {
+  "date": "2024-01-08",
+  "title": "当下最重要的事",
+  "author": "天机奇谈",
+  "word_count": 2345
  },
  {
   "date": "2024-01-09",
-  "title": "闭嘴~！",
-  "author": "天玑",
-  "word_count": 1464
+  "title": "闭嘴",
+  "author": "金渐成",
+  "word_count": 1543
+ },
+ {
+  "date": "2024-01-10",
+  "title": "葵花宝典",
+  "author": "天机奇谈",
+  "word_count": 2616
  },
  {
   "date": "2024-01-11",
   "title": "祖坟在喷火",
-  "author": "天玑",
+  "author": "金渐成",
   "word_count": 1710
  },
  {
+  "date": "2024-01-12",
+  "title": "信号",
+  "author": "天机奇谈",
+  "word_count": 1769
+ },
+ {
+  "date": "2024-01-15",
+  "title": "这是放裸贷",
+  "author": "天机奇谈",
+  "word_count": 1965
+ },
+ {
+  "date": "2024-01-16",
+  "title": "崩了",
+  "author": "天机奇谈",
+  "word_count": 1908
+ },
+ {
+  "date": "2024-01-17",
+  "title": "都提前撤了",
+  "author": "天机奇谈",
+  "word_count": 1428
+ },
+ {
+  "date": "2024-01-18",
+  "title": "敬酒不吃吃头孢",
+  "author": "天机奇谈",
+  "word_count": 1963
+ },
+ {
+  "date": "2024-01-19",
+  "title": "关闭账户",
+  "author": "天机奇谈",
+  "word_count": 1054
+ },
+ {
   "date": "2024-01-20",
-  "title": "紧急撤离~",
-  "author": "天玑",
-  "word_count": 1702
+  "title": "紧急撤离",
+  "author": "金渐成",
+  "word_count": 1701
  },
  {
   "date": "2024-01-22",
-  "title": "“高质量发展”~",
-  "author": "天玑",
-  "word_count": 1451
+  "title": "神话破灭",
+  "author": "天机奇谈",
+  "word_count": 2098
+ },
+ {
+  "date": "2024-01-22",
+  "title": "高质量发展",
+  "author": "金渐成",
+  "word_count": 1458
+ },
+ {
+  "date": "2024-01-24",
+  "title": "草台班子",
+  "author": "天机奇谈",
+  "word_count": 1456
+ },
+ {
+  "date": "2024-01-26",
+  "title": "裸露在人群中",
+  "author": "天机奇谈",
+  "word_count": 2252
+ },
+ {
+  "date": "2024-01-29",
+  "title": "最后的倔强",
+  "author": "天机奇谈",
+  "word_count": 2260
+ },
+ {
+  "date": "2024-01-30",
+  "title": "卖艺不卖身",
+  "author": "天机奇谈",
+  "word_count": 2051
+ },
+ {
+  "date": "2024-01-31",
+  "title": "大象腾挪",
+  "author": "天机奇谈",
+  "word_count": 1196
+ },
+ {
+  "date": "2024-02-02",
+  "title": "鸿运当头",
+  "author": "天机奇谈",
+  "word_count": 644
+ },
+ {
+  "date": "2024-02-18",
+  "title": "提前完成",
+  "author": "天机奇谈",
+  "word_count": 1073
  },
  {
   "date": "2024-02-19",
-  "title": "“祖传秘诀”",
-  "author": "天玑",
-  "word_count": 2060
+  "title": "祖传秘诀",
+  "author": "金渐成",
+  "word_count": 2063
+ },
+ {
+  "date": "2024-02-23",
+  "title": "粪中淘金",
+  "author": "天机奇谈",
+  "word_count": 2003
  },
  {
   "date": "2024-02-26",
-  "title": "收钱不手软~",
-  "author": "天玑",
+  "title": "超级个体",
+  "author": "天机奇谈",
+  "word_count": 1880
+ },
+ {
+  "date": "2024-02-27",
+  "title": "收钱不手软",
+  "author": "金渐成",
   "word_count": 930
+ },
+ {
+  "date": "2024-02-28",
+  "title": "以德服人",
+  "author": "天机奇谈",
+  "word_count": 2176
  },
  {
   "date": "2024-03-01",
   "title": "说两句心里话",
-  "author": "天玑",
+  "author": "金渐成",
   "word_count": 994
  },
  {
   "date": "2024-03-05",
-  "title": "瞧，大“骟”人~",
-  "author": "天玑",
-  "word_count": 1443
+  "title": "瞧大骟人",
+  "author": "金渐成",
+  "word_count": 1608
  },
  {
   "date": "2024-03-11",
   "title": "熟悉的前奏又响起来了",
-  "author": "天玑",
-  "word_count": 1263
+  "author": "金渐成",
+  "word_count": 1260
+ },
+ {
+  "date": "2024-03-14",
+  "title": "大趋势",
+  "author": "天机奇谈",
+  "word_count": 2147
+ },
+ {
+  "date": "2024-03-18",
+  "title": "万万没想到",
+  "author": "天机奇谈",
+  "word_count": 2286
+ },
+ {
+  "date": "2024-04-02",
+  "title": "火烧屁股",
+  "author": "天机奇谈",
+  "word_count": 2547
  },
  {
   "date": "2024-04-07",
   "title": "春天的迹象",
-  "author": "天玑",
-  "word_count": 1595
+  "author": "金渐成",
+  "word_count": 1597
  },
  {
   "date": "2024-04-08",
   "title": "前进的方向",
-  "author": "天玑",
+  "author": "金渐成",
   "word_count": 2458
  },
  {
   "date": "2024-04-09",
-  "title": "守住基本盘和“压舱石”",
-  "author": "天玑",
-  "word_count": 2115
+  "title": "守住基本盘和压舱石",
+  "author": "金渐成",
+  "word_count": 2130
+ },
+ {
+  "date": "2024-04-18",
+  "title": "你喘气那么大声干嘛",
+  "author": "天机奇谈",
+  "word_count": 2259
  },
  {
   "date": "2024-04-21",
-  "title": "两周年～",
-  "author": "天玑",
+  "title": "两周年",
+  "author": "金渐成",
   "word_count": 1388
  },
  {
-  "date": "2024-04-24",
-  "title": "摊上这样的孩子~",
-  "author": "天玑",
-  "word_count": 1947
+  "date": "2024-04-23",
+  "title": "嘴壮怂人胆",
+  "author": "天机奇谈",
+  "word_count": 2445
  },
  {
   "date": "2024-04-24",
-  "title": "路径依赖~",
-  "author": "天玑",
+  "title": "摊上这样的孩子",
+  "author": "金渐成",
+  "word_count": 2026
+ },
+ {
+  "date": "2024-04-25",
+  "title": "路径依赖",
+  "author": "金渐成",
   "word_count": 1346
  },
  {
   "date": "2024-04-28",
-  "title": "一些零碎的想法",
-  "author": "天玑",
-  "word_count": 863
- },
- {
-  "date": "2024-04-28",
   "title": "周末唠唠嗑",
-  "author": "天玑",
+  "author": "金渐成",
   "word_count": 984
  },
  {
   "date": "2024-04-29",
-  "title": "无题",
-  "author": "天玑",
-  "word_count": 1428
+  "title": "一些零碎的想法",
+  "author": "金渐成",
+  "word_count": 863
  },
  {
   "date": "2024-04-30",
-  "title": "信息茧房",
-  "author": "天玑",
-  "word_count": 2113
+  "title": "无题",
+  "author": "金渐成",
+  "word_count": 1428
  },
  {
-  "date": "2024-05-02",
-  "title": "机会～",
-  "author": "天玑",
+  "date": "2024-05-01",
+  "title": "信息茧房",
+  "author": "金渐成",
+  "word_count": 2112
+ },
+ {
+  "date": "2024-05-03",
+  "title": "机会",
+  "author": "金渐成",
   "word_count": 1070
  },
  {
-  "date": "2024-05-04",
+  "date": "2024-05-05",
   "title": "一切都是假象",
-  "author": "天玑",
+  "author": "金渐成",
   "word_count": 1362
  },
  {
+  "date": "2024-05-15",
+  "title": "在人间",
+  "author": "天机奇谈",
+  "word_count": 2249
+ },
+ {
   "date": "2024-05-16",
-  "title": "放大招～",
-  "author": "天玑",
-  "word_count": 1760
+  "title": "放大招",
+  "author": "金渐成",
+  "word_count": 1755
+ },
+ {
+  "date": "2024-05-17",
+  "title": "史诗级救市",
+  "author": "天机奇谈",
+  "word_count": 954
  },
  {
   "date": "2024-05-20",
   "title": "一般从来不一般",
-  "author": "天玑",
-  "word_count": 1517
+  "author": "金渐成",
+  "word_count": 1513
+ },
+ {
+  "date": "2024-05-20",
+  "title": "故人风雨散",
+  "author": "天机奇谈",
+  "word_count": 2484
  },
  {
   "date": "2024-05-23",
+  "title": "大郎该吃药了",
+  "author": "天机奇谈",
+  "word_count": 2098
+ },
+ {
+  "date": "2024-05-24",
   "title": "拒绝新闻的生活",
-  "author": "天玑",
-  "word_count": 1727
+  "author": "金渐成",
+  "word_count": 1725
+ },
+ {
+  "date": "2024-05-30",
+  "title": "房地产进入我是你爸爸时代",
+  "author": "天机奇谈",
+  "word_count": 2246
  },
  {
   "date": "2024-06-03",
-  "title": "席地而坐～",
-  "author": "天玑",
+  "title": "席地而坐",
+  "author": "金渐成",
   "word_count": 1595
  },
  {
+  "date": "2024-06-04",
+  "title": "不是所有的鱼都生活在同一片海里",
+  "author": "天机奇谈",
+  "word_count": 2495
+ },
+ {
   "date": "2024-06-05",
-  "title": "写点旅行感受～",
-  "author": "天玑",
+  "title": "写点旅行感受",
+  "author": "金渐成",
   "word_count": 1549
  },
  {
   "date": "2024-06-06",
+  "title": "时代悄悄变了",
+  "author": "天机奇谈",
+  "word_count": 1122
+ },
+ {
+  "date": "2024-06-07",
   "title": "习惯性跑题",
-  "author": "天玑",
+  "author": "金渐成",
   "word_count": 1177
  },
  {
   "date": "2024-06-12",
+  "title": "指鹿为马",
+  "author": "天机奇谈",
+  "word_count": 1794
+ },
+ {
+  "date": "2024-06-13",
   "title": "沸水煮青蛙",
-  "author": "天玑",
+  "author": "金渐成",
   "word_count": 1260
  },
  {
-  "date": "2024-06-15",
+  "date": "2024-06-16",
   "title": "埋在无人问津处",
-  "author": "天玑",
+  "author": "金渐成",
   "word_count": 1301
  },
  {
-  "date": "2024-06-17",
+  "date": "2024-06-18",
   "title": "欲说还休",
-  "author": "天玑",
+  "author": "金渐成",
   "word_count": 1459
  },
  {
   "date": "2024-06-20",
-  "title": "穿过冬天～",
-  "author": "天玑",
+  "title": "穿过冬天",
+  "author": "金渐成",
   "word_count": 1745
  },
  {
   "date": "2024-06-21",
   "title": "问题与答复",
-  "author": "天玑",
+  "author": "金渐成",
   "word_count": 1457
  },
  {
   "date": "2024-06-23",
   "title": "认真解释一下这件事",
-  "author": "天玑",
+  "author": "金渐成",
   "word_count": 1497
  },
  {
   "date": "2024-06-24",
   "title": "旧事重提",
-  "author": "天玑",
-  "word_count": 3260
+  "author": "金渐成",
+  "word_count": 2955
  },
  {
   "date": "2024-06-27",
   "title": "一切都是取舍",
-  "author": "天玑",
+  "author": "金渐成",
   "word_count": 1634
  },
  {
+  "date": "2024-06-28",
+  "title": "千薪万苦",
+  "author": "天机奇谈",
+  "word_count": 1506
+ },
+ {
   "date": "2024-08-01",
-  "title": "如履薄冰～",
-  "author": "天玑",
+  "title": "如履薄冰",
+  "author": "金渐成",
   "word_count": 1463
  },
  {
-  "date": "2024-08-04",
+  "date": "2024-08-05",
   "title": "用自己的眼睛看世界",
-  "author": "天玑",
-  "word_count": 1099
+  "author": "金渐成",
+  "word_count": 1098
  },
  {
-  "date": "2024-08-06",
+  "date": "2024-08-07",
   "title": "时代悄悄变了",
-  "author": "天玑",
-  "word_count": 1370
+  "author": "金渐成",
+  "word_count": 1369
  },
  {
-  "date": "2024-08-09",
+  "date": "2024-08-10",
   "title": "不知老之将至",
-  "author": "天玑",
-  "word_count": 1309
+  "author": "金渐成",
+  "word_count": 1307
  },
  {
-  "date": "2024-08-14",
+  "date": "2024-08-15",
   "title": "黎明前的黑暗",
-  "author": "天玑",
-  "word_count": 1632
- },
- {
-  "date": "2024-08-19",
-  "title": "未来，我的选项…",
-  "author": "天玑",
-  "word_count": 992
+  "author": "金渐成",
+  "word_count": 1630
  },
  {
   "date": "2024-08-19",
   "title": "这事不知该不该说",
-  "author": "天玑",
-  "word_count": 1455
+  "author": "金渐成",
+  "word_count": 1454
+ },
+ {
+  "date": "2024-08-20",
+  "title": "一根香蕉的距离",
+  "author": "天机奇谈",
+  "word_count": 2580
+ },
+ {
+  "date": "2024-08-20",
+  "title": "未来我的选项",
+  "author": "金渐成",
+  "word_count": 1000
  },
  {
   "date": "2024-08-21",
   "title": "钉在历史的耻辱柱上",
-  "author": "天玑",
-  "word_count": 1336
+  "author": "金渐成",
+  "word_count": 1335
+ },
+ {
+  "date": "2024-08-22",
+  "title": "站在窗前看烟花",
+  "author": "天机奇谈",
+  "word_count": 2593
  },
  {
   "date": "2024-08-23",
-  "title": "蛛丝马迹~",
-  "author": "天玑",
-  "word_count": 1821
+  "title": "蛛丝马迹",
+  "author": "金渐成",
+  "word_count": 1820
  },
  {
-  "date": "2024-08-23",
-  "title": "起风了~",
-  "author": "天玑",
-  "word_count": 1523
+  "date": "2024-08-24",
+  "title": "起风了",
+  "author": "金渐成",
+  "word_count": 1522
  },
  {
   "date": "2024-08-25",
-  "title": "“最重要的一周”",
-  "author": "天玑",
-  "word_count": 1458
+  "title": "经历本身就是答案",
+  "author": "天机奇谈",
+  "word_count": 1201
  },
  {
   "date": "2024-08-26",
-  "title": "一场大冒险~",
-  "author": "天玑",
-  "word_count": 2248
+  "title": "最重要的一周",
+  "author": "金渐成",
+  "word_count": 1465
+ },
+ {
+  "date": "2024-08-27",
+  "title": "一场大冒险",
+  "author": "金渐成",
+  "word_count": 2247
  },
  {
   "date": "2024-08-28",
-  "title": "天黑请闭眼",
-  "author": "天玑",
-  "word_count": 1379
- },
- {
-  "date": "2024-08-28",
-  "title": "流水账~",
-  "author": "天玑",
-  "word_count": 1554
+  "title": "流水账",
+  "author": "金渐成",
+  "word_count": 1552
  },
  {
   "date": "2024-08-29",
-  "title": "全力倚父~",
-  "author": "天玑",
+  "title": "天黑请闭眼",
+  "author": "金渐成",
+  "word_count": 1377
+ },
+ {
+  "date": "2024-08-30",
+  "title": "全力倚父",
+  "author": "金渐成",
   "word_count": 1370
  },
  {
-  "date": "2024-08-31",
-  "title": "更可怕的泡沫~",
-  "author": "天玑",
+  "date": "2024-09-01",
+  "title": "更可怕的泡沫",
+  "author": "金渐成",
   "word_count": 2326
  },
  {
   "date": "2024-09-02",
-  "title": "思路打开了~",
-  "author": "天玑",
+  "title": "先做个人吧",
+  "author": "天机奇谈",
+  "word_count": 1264
+ },
+ {
+  "date": "2024-09-03",
+  "title": "思路打开了",
+  "author": "金渐成",
   "word_count": 1714
  },
  {
   "date": "2024-09-04",
-  "title": "心惊肉跳的时刻",
-  "author": "天玑",
-  "word_count": 1322
- },
- {
-  "date": "2024-09-04",
-  "title": "自驱力～",
-  "author": "天玑",
+  "title": "自驱力",
+  "author": "金渐成",
   "word_count": 3022
  },
  {
   "date": "2024-09-05",
-  "title": "如果有明天～",
-  "author": "天玑",
-  "word_count": 1798
+  "title": "心惊肉跳的时刻",
+  "author": "金渐成",
+  "word_count": 1322
  },
  {
   "date": "2024-09-06",
-  "title": "抄底，急不得～",
-  "author": "天玑",
-  "word_count": 1604
+  "title": "如果有明天",
+  "author": "金渐成",
+  "word_count": 1798
+ },
+ {
+  "date": "2024-09-07",
+  "title": "抄底急不得",
+  "author": "金渐成",
+  "word_count": 1611
  },
  {
   "date": "2024-09-08",
-  "title": "落坨翔子~",
-  "author": "天玑",
+  "title": "落坨翔子",
+  "author": "金渐成",
   "word_count": 1526
  },
  {
-  "date": "2024-09-12",
-  "title": "新的纪元？",
-  "author": "天玑",
-  "word_count": 1704
+  "date": "2024-09-13",
+  "title": "新的纪元",
+  "author": "金渐成",
+  "word_count": 1699
  },
  {
-  "date": "2024-09-13",
-  "title": "允许一切发生～",
-  "author": "天玑",
-  "word_count": 1922
+  "date": "2024-09-14",
+  "title": "允许一切发生",
+  "author": "金渐成",
+  "word_count": 1920
+ },
+ {
+  "date": "2024-09-19",
+  "title": "美联储降息利好中国楼市",
+  "author": "天机奇谈",
+  "word_count": 1945
+ },
+ {
+  "date": "2024-09-23",
+  "title": "北上广深楼市止跌的推演结果",
+  "author": "天机奇谈",
+  "word_count": 2641
  },
  {
   "date": "2024-09-24",
-  "title": "准备迎接惊涛骇浪~",
-  "author": "天玑",
-  "word_count": 1643
+  "title": "爸爸再爱我一次",
+  "author": "天机奇谈",
+  "word_count": 996
  },
  {
   "date": "2024-09-25",
-  "title": "勒紧裤腰带~",
-  "author": "天玑",
-  "word_count": 1542
+  "title": "准备迎接惊涛骇浪",
+  "author": "金渐成",
+  "word_count": 1643
  },
  {
   "date": "2024-09-26",
-  "title": "爱你在心口难开~",
-  "author": "天玑",
-  "word_count": 1834
+  "title": "勒紧裤腰带",
+  "author": "金渐成",
+  "word_count": 1542
  },
  {
   "date": "2024-09-27",
-  "title": "老天赏饭吃～",
-  "author": "天玑",
-  "word_count": 1720
+  "title": "爱你在心口难开",
+  "author": "金渐成",
+  "word_count": 1833
  },
  {
   "date": "2024-09-28",
-  "title": "下一个风向标？",
-  "author": "天玑",
+  "title": "老天赏饭吃",
+  "author": "金渐成",
+  "word_count": 1720
+ },
+ {
+  "date": "2024-09-29",
+  "title": "下一个风向标",
+  "author": "金渐成",
   "word_count": 1284
  },
  {
   "date": "2024-09-29",
+  "title": "房价即将上涨",
+  "author": "天机奇谈",
+  "word_count": 2319
+ },
+ {
+  "date": "2024-09-30",
   "title": "疯狂星期一",
-  "author": "天玑",
+  "author": "金渐成",
   "word_count": 1467
  },
  {
-  "date": "2024-10-01",
-  "title": "转折点～",
-  "author": "天玑",
-  "word_count": 1373
+  "date": "2024-10-02",
+  "title": "转折点",
+  "author": "金渐成",
+  "word_count": 1372
  },
  {
-  "date": "2024-10-02",
-  "title": "最危险的时刻～",
-  "author": "天玑",
+  "date": "2024-10-03",
+  "title": "最危险的时刻",
+  "author": "金渐成",
   "word_count": 910
  },
  {
-  "date": "2024-10-06",
-  "title": "无话可说～",
-  "author": "天玑",
-  "word_count": 1925
- },
- {
-  "date": "2024-10-07",
-  "title": "接下去怎么做？",
-  "author": "天玑",
+  "date": "2024-10-08",
+  "title": "接下去怎么做",
+  "author": "金渐成",
   "word_count": 1375
  },
  {
-  "date": "2024-10-08",
-  "title": "激流缓退~",
-  "author": "天玑",
+  "date": "2024-10-09",
+  "title": "激流缓退",
+  "author": "金渐成",
   "word_count": 1312
  },
  {
-  "date": "2024-10-09",
-  "title": "不为此刻所困~",
-  "author": "天玑",
+  "date": "2024-10-10",
+  "title": "不为此刻所困",
+  "author": "金渐成",
   "word_count": 1560
  },
  {
-  "date": "2024-10-13",
-  "title": "人到中年做“减法”～",
-  "author": "天玑",
-  "word_count": 1963
+  "date": "2024-10-11",
+  "title": "顺着麦穗找麦田",
+  "author": "金渐成",
+  "word_count": 2418
  },
  {
   "date": "2024-10-14",
-  "title": "把自己安放妥当～",
-  "author": "天玑",
+  "title": "人到中年做减法",
+  "author": "金渐成",
+  "word_count": 1971
+ },
+ {
+  "date": "2024-10-15",
+  "title": "把自己安放妥当",
+  "author": "金渐成",
   "word_count": 1472
  },
  {
+  "date": "2024-10-15",
+  "title": "有个事注意一下",
+  "author": "天机奇谈",
+  "word_count": 2088
+ },
+ {
   "date": "2024-10-16",
-  "title": "通道正逐渐收紧~",
-  "author": "天玑",
+  "title": "通道正逐渐收紧",
+  "author": "金渐成",
   "word_count": 2490
  },
  {
-  "date": "2024-10-17",
-  "title": "赚钱如流水～",
-  "author": "天玑",
-  "word_count": 2052
- },
- {
   "date": "2024-10-18",
-  "title": "商量一件事~",
-  "author": "天玑",
+  "title": "商量一件事",
+  "author": "金渐成",
   "word_count": 1724
  },
  {
   "date": "2024-10-21",
-  "title": "错的是全世界～",
-  "author": "天玑",
+  "title": "错的是全世界",
+  "author": "金渐成",
   "word_count": 1968
  },
  {
   "date": "2024-10-22",
-  "title": "寻找下一张船票～",
-  "author": "天玑",
+  "title": "寻找下一张船票",
+  "author": "金渐成",
   "word_count": 2009
  },
  {
   "date": "2024-10-23",
-  "title": "最平静的结局～",
-  "author": "天玑",
-  "word_count": 2495
+  "title": "最平静的结局",
+  "author": "金渐成",
+  "word_count": 2494
  },
  {
   "date": "2024-10-24",
-  "title": "套利机会～",
-  "author": "天玑",
-  "word_count": 1463
+  "title": "一如既往",
+  "author": "天机奇谈",
+  "word_count": 1440
+ },
+ {
+  "date": "2024-10-24",
+  "title": "套利机会",
+  "author": "金渐成",
+  "word_count": 1461
+ },
+ {
+  "date": "2024-10-25",
+  "title": "熬到头了",
+  "author": "金渐成",
+  "word_count": 1928
  },
  {
   "date": "2024-10-28",
-  "title": "来不及想标题了～",
-  "author": "天玑",
-  "word_count": 2111
- },
- {
-  "date": "2024-10-29",
-  "title": "更辽阔的星辰大海～",
-  "author": "天玑",
-  "word_count": 1921
+  "title": "来不及想标题了",
+  "author": "金渐成",
+  "word_count": 2109
  },
  {
   "date": "2024-10-29",
   "title": "这有点东西啊",
-  "author": "天玑",
-  "word_count": 1541
+  "author": "金渐成",
+  "word_count": 1540
  },
  {
   "date": "2024-10-30",
-  "title": "在十月的最后一天～",
-  "author": "天玑",
-  "word_count": 1791
+  "title": "更辽阔的星辰大海",
+  "author": "金渐成",
+  "word_count": 1921
  },
  {
   "date": "2024-10-31",
-  "title": "他回来了，怎么办？",
-  "author": "天玑",
-  "word_count": 1771
+  "title": "在十月的最后一天",
+  "author": "金渐成",
+  "word_count": 1788
  },
  {
-  "date": "2024-11-03",
-  "title": "多数人都是血亏的…",
-  "author": "天玑",
-  "word_count": 2183
+  "date": "2024-11-01",
+  "title": "他回来了怎么办",
+  "author": "金渐成",
+  "word_count": 1780
+ },
+ {
+  "date": "2024-11-04",
+  "title": "一个时代结束了",
+  "author": "天机奇谈",
+  "word_count": 1173
+ },
+ {
+  "date": "2024-11-04",
+  "title": "多数人都是血亏的",
+  "author": "金渐成",
+  "word_count": 2182
  },
  {
   "date": "2024-11-05",
-  "title": "梦醒了～",
-  "author": "天玑",
+  "title": "梦醒了",
+  "author": "金渐成",
   "word_count": 1691
  },
  {
   "date": "2024-11-06",
-  "title": "狂风暴雨地涨~",
-  "author": "天玑",
-  "word_count": 2008
+  "title": "没有悬念",
+  "author": "天机奇谈",
+  "word_count": 1439
  },
  {
   "date": "2024-11-07",
-  "title": "很重要的一些调整~",
-  "author": "天玑",
+  "title": "狂风暴雨地涨",
+  "author": "金渐成",
+  "word_count": 2008
+ },
+ {
+  "date": "2024-11-08",
+  "title": "很重要的一些调整",
+  "author": "金渐成",
   "word_count": 1814
  },
  {
   "date": "2024-11-08",
-  "title": "一年将尽~",
-  "author": "天玑",
+  "title": "给自己留了条后路",
+  "author": "天机奇谈",
+  "word_count": 1221
+ },
+ {
+  "date": "2024-11-09",
+  "title": "一年将尽",
+  "author": "金渐成",
   "word_count": 1731
  },
  {
-  "date": "2024-11-10",
-  "title": "创造新历史~",
-  "author": "天玑",
-  "word_count": 1988
- },
- {
   "date": "2024-11-11",
-  "title": "一切还是老样子~",
-  "author": "天玑",
-  "word_count": 1362
+  "title": "创造新历史",
+  "author": "金渐成",
+  "word_count": 1987
  },
  {
   "date": "2024-11-12",
-  "title": "转眼二十年~",
-  "author": "天玑",
-  "word_count": 2101
+  "title": "一切还是老样子",
+  "author": "金渐成",
+  "word_count": 1362
  },
  {
   "date": "2024-11-13",
-  "title": "我抄！",
-  "author": "天玑",
+  "title": "转眼二十年",
+  "author": "金渐成",
+  "word_count": 2101
+ },
+ {
+  "date": "2024-11-14",
+  "title": "我抄",
+  "author": "金渐成",
   "word_count": 1861
  },
  {
   "date": "2024-11-14",
-  "title": "废物，又跪了~",
-  "author": "天玑",
-  "word_count": 2323
+  "title": "标题想不出来",
+  "author": "天机奇谈",
+  "word_count": 2140
  },
  {
   "date": "2024-11-15",
-  "title": "难比登天~",
-  "author": "天玑",
+  "title": "废物又跪了",
+  "author": "金渐成",
+  "word_count": 2329
+ },
+ {
+  "date": "2024-11-16",
+  "title": "难比登天",
+  "author": "金渐成",
   "word_count": 1733
  },
  {
   "date": "2024-11-18",
-  "title": "大干一场~",
-  "author": "天玑",
-  "word_count": 2010
+  "title": "大干一场",
+  "author": "金渐成",
+  "word_count": 2008
  },
  {
   "date": "2024-11-19",
-  "title": "勒紧裤腰带~",
-  "author": "天玑",
+  "title": "勒紧裤腰带",
+  "author": "金渐成",
   "word_count": 2134
  },
  {
-  "date": "2024-11-19",
-  "title": "涛声依旧~",
-  "author": "天玑",
+  "date": "2024-11-20",
+  "title": "涛声依旧",
+  "author": "金渐成",
   "word_count": 2017
  },
  {
-  "date": "2024-11-20",
-  "title": "走过风暴海~",
-  "author": "天玑",
+  "date": "2024-11-21",
+  "title": "走过风暴海",
+  "author": "金渐成",
   "word_count": 2040
  },
  {
-  "date": "2024-11-21",
-  "title": "这钱，太烫手了~",
-  "author": "天玑",
-  "word_count": 2608
+  "date": "2024-11-22",
+  "title": "这钱太烫手了",
+  "author": "金渐成",
+  "word_count": 2616
  },
  {
-  "date": "2024-11-24",
-  "title": "尽所能，敬所不能~",
-  "author": "天玑",
-  "word_count": 2340
+  "date": "2024-11-23",
+  "title": "蛮重要的事可能会被盾",
+  "author": "金渐成",
+  "word_count": 1889
+ },
+ {
+  "date": "2024-11-25",
+  "title": "尽所能敬所不能",
+  "author": "金渐成",
+  "word_count": 2349
+ },
+ {
+  "date": "2024-11-26",
+  "title": "万科的生死节点",
+  "author": "天机奇谈",
+  "word_count": 3852
  },
  {
   "date": "2024-11-27",
-  "title": "如风中年~",
-  "author": "天玑",
+  "title": "如风中年",
+  "author": "金渐成",
   "word_count": 2393
  },
  {
+  "date": "2024-11-28",
+  "title": "不要脸",
+  "author": "天机奇谈",
+  "word_count": 1405
+ },
+ {
   "date": "2024-11-30",
-  "title": "再也回不去~",
-  "author": "天玑",
+  "title": "再也回不去",
+  "author": "金渐成",
   "word_count": 1902
  },
  {
-  "date": "2024-12-02",
-  "title": "制服的诱惑~",
-  "author": "天玑",
+  "date": "2024-12-03",
+  "title": "制服的诱惑",
+  "author": "金渐成",
   "word_count": 1904
  },
  {
   "date": "2024-12-04",
-  "title": "等一个上场机会~",
-  "author": "天玑",
-  "word_count": 2057
+  "title": "穿过冬天",
+  "author": "金渐成",
+  "word_count": 1943
  },
  {
   "date": "2024-12-05",
-  "title": "坐了一回过山车~",
-  "author": "天玑",
-  "word_count": 1929
+  "title": "等一个上场机会",
+  "author": "金渐成",
+  "word_count": 2057
  },
  {
-  "date": "2024-12-07",
-  "title": "我最看重的三个点~",
-  "author": "天玑",
-  "word_count": 2542
+  "date": "2024-12-06",
+  "title": "坐了一回过山车",
+  "author": "金渐成",
+  "word_count": 1927
+ },
+ {
+  "date": "2024-12-08",
+  "title": "我最看重的三个点",
+  "author": "金渐成",
+  "word_count": 2540
  },
  {
   "date": "2024-12-09",
-  "title": "大水漫灌？",
-  "author": "天玑",
-  "word_count": 1869
- },
- {
-  "date": "2024-12-09",
-  "title": "我计划落袋为安了~",
-  "author": "天玑",
+  "title": "我计划落袋为安了",
+  "author": "金渐成",
   "word_count": 1560
  },
  {
   "date": "2024-12-10",
-  "title": "草根的牛市~",
-  "author": "天玑",
-  "word_count": 2102
+  "title": "大水漫灌",
+  "author": "金渐成",
+  "word_count": 1869
  },
  {
   "date": "2024-12-11",
-  "title": "哎哟，我去！失算了…",
-  "author": "天玑",
-  "word_count": 2187
+  "title": "草根的牛市",
+  "author": "金渐成",
+  "word_count": 2102
  },
  {
   "date": "2024-12-12",
-  "title": "贤者时刻~",
-  "author": "天玑",
+  "title": "哎哟我去失算了",
+  "author": "金渐成",
+  "word_count": 2197
+ },
+ {
+  "date": "2024-12-13",
+  "title": "贤者时刻",
+  "author": "金渐成",
   "word_count": 1686
  },
  {
-  "date": "2024-12-15",
-  "title": "跃向未来~",
-  "author": "天玑",
+  "date": "2024-12-16",
+  "title": "跃向未来",
+  "author": "金渐成",
   "word_count": 2015
  },
  {
-  "date": "2024-12-17",
-  "title": "梦回2008~",
-  "author": "天玑",
+  "date": "2024-12-18",
+  "title": "梦回2008",
+  "author": "金渐成",
   "word_count": 2460
  },
  {
-  "date": "2024-12-18",
-  "title": "倒车接人~",
-  "author": "天玑",
+  "date": "2024-12-19",
+  "title": "倒车接人",
+  "author": "金渐成",
   "word_count": 2112
  },
  {
-  "date": "2024-12-19",
-  "title": "一定要扛下去~",
-  "author": "天玑",
+  "date": "2024-12-20",
+  "title": "一定要扛下去",
+  "author": "金渐成",
   "word_count": 2135
  },
  {
-  "date": "2024-12-22",
-  "title": "趋势越来越明显~",
-  "author": "天玑",
+  "date": "2024-12-23",
+  "title": "趋势越来越明显",
+  "author": "金渐成",
   "word_count": 2229
  },
  {
-  "date": "2024-12-23",
-  "title": "赚钱的秘诀~",
-  "author": "天玑",
+  "date": "2024-12-24",
+  "title": "赚钱的秘诀",
+  "author": "金渐成",
   "word_count": 2125
  },
  {
-  "date": "2024-12-25",
-  "title": "我的2024年度~",
-  "author": "天玑",
-  "word_count": 2029
+  "date": "2024-12-26",
+  "title": "我的2024年度",
+  "author": "金渐成",
+  "word_count": 2028
  },
  {
   "date": "2024-12-29",
-  "title": "2025年的投资展望~",
-  "author": "天玑",
+  "title": "2025年的投资展望",
+  "author": "金渐成",
   "word_count": 1851
  },
  {
-  "date": "2025-01-01",
-  "title": "新的时间开始了~",
-  "author": "天玑",
-  "word_count": 2078
+  "date": "2025-01-02",
+  "title": "新的时间开始了",
+  "author": "金渐成",
+  "word_count": 2077
  },
  {
-  "date": "2025-01-05",
-  "title": "提前布局~",
-  "author": "天玑",
+  "date": "2025-01-06",
+  "title": "提前布局",
+  "author": "金渐成",
   "word_count": 2135
  },
  {
   "date": "2025-01-06",
-  "title": "主力回来了~",
-  "author": "天玑",
-  "word_count": 2399
+  "title": "穿过风暴",
+  "author": "天机奇谈",
+  "word_count": 2007
  },
  {
   "date": "2025-01-07",
-  "title": "2025年搞钱指南~",
-  "author": "天玑",
+  "title": "主力回来了",
+  "author": "金渐成",
+  "word_count": 2398
+ },
+ {
+  "date": "2025-01-08",
+  "title": "2025年搞钱指南",
+  "author": "金渐成",
   "word_count": 1980
  },
  {
   "date": "2025-01-08",
-  "title": "心无旁骛~",
-  "author": "天玑",
-  "word_count": 2041
+  "title": "一帮努力的屁股",
+  "author": "天机奇谈",
+  "word_count": 1878
  },
  {
   "date": "2025-01-09",
-  "title": "不太聪明的人~",
-  "author": "天玑",
-  "word_count": 2703
+  "title": "心无旁骛",
+  "author": "金渐成",
+  "word_count": 2040
  },
  {
-  "date": "2025-01-13",
-  "title": "全村人的希望~",
-  "author": "天玑",
-  "word_count": 2478
+  "date": "2025-01-10",
+  "title": "不太聪明的人",
+  "author": "金渐成",
+  "word_count": 2697
+ },
+ {
+  "date": "2025-01-10",
+  "title": "抽15万红包啦",
+  "author": "天机奇谈",
+  "word_count": 1950
+ },
+ {
+  "date": "2025-01-14",
+  "title": "全村人的希望",
+  "author": "金渐成",
+  "word_count": 2477
  },
  {
   "date": "2025-01-15",
-  "title": "准备迎接风暴吧~",
-  "author": "天玑",
-  "word_count": 1814
+  "title": "准备迎接风暴吧",
+  "author": "金渐成",
+  "word_count": 1812
  },
  {
-  "date": "2025-01-15",
-  "title": "我后面的打算~",
-  "author": "天玑",
-  "word_count": 1927
+  "date": "2025-01-16",
+  "title": "我后面的打算",
+  "author": "金渐成",
+  "word_count": 1925
  },
  {
   "date": "2025-01-17",
-  "title": "我落袋为安了，舒服~",
-  "author": "天玑",
-  "word_count": 2027
- },
- {
-  "date": "2025-01-20",
-  "title": "坚持自己的眼光~",
-  "author": "天玑",
-  "word_count": 2033
+  "title": "我落袋为安了舒服",
+  "author": "金渐成",
+  "word_count": 2036
  },
  {
   "date": "2025-01-21",
-  "title": "满城都是投机者~",
-  "author": "天玑",
-  "word_count": 2864
+  "title": "坚持自己的眼光",
+  "author": "金渐成",
+  "word_count": 2032
  },
  {
   "date": "2025-01-22",
-  "title": "一分钱都赚不到了~",
-  "author": "天玑",
-  "word_count": 2546
+  "title": "满城都是投机者",
+  "author": "金渐成",
+  "word_count": 2863
  },
  {
-  "date": "2025-01-26",
-  "title": "即将到来的风险~",
-  "author": "天玑",
-  "word_count": 1279
+  "date": "2025-01-23",
+  "title": "一分钱都赚不到了",
+  "author": "金渐成",
+  "word_count": 2545
+ },
+ {
+  "date": "2025-01-25",
+  "title": "温水煮牛蛙",
+  "author": "天机奇谈",
+  "word_count": 2139
  },
  {
   "date": "2025-01-27",
-  "title": "神话破灭？",
-  "author": "天玑",
-  "word_count": 1642
+  "title": "即将到来的风险",
+  "author": "金渐成",
+  "word_count": 1278
  },
  {
   "date": "2025-01-28",
+  "title": "神话破灭",
+  "author": "金渐成",
+  "word_count": 1642
+ },
+ {
+  "date": "2025-01-29",
   "title": "想对你们说的一些话",
-  "author": "天玑",
+  "author": "金渐成",
   "word_count": 2450
  },
  {
-  "date": "2025-02-02",
-  "title": "真正的财神~",
-  "author": "天玑",
-  "word_count": 2007
- },
- {
   "date": "2025-02-03",
-  "title": "戏剧性的一幕~",
-  "author": "天玑",
-  "word_count": 1851
+  "title": "真正的财神",
+  "author": "金渐成",
+  "word_count": 2006
  },
  {
   "date": "2025-02-04",
-  "title": "机会点来了~",
-  "author": "天玑",
+  "title": "戏剧性的一幕",
+  "author": "金渐成",
+  "word_count": 1850
+ },
+ {
+  "date": "2025-02-05",
+  "title": "机会点来了",
+  "author": "金渐成",
   "word_count": 2443
  },
  {
-  "date": "2025-02-06",
-  "title": "压力还要持续十几年~",
-  "author": "天玑",
-  "word_count": 2384
- },
- {
-  "date": "2025-02-08",
-  "title": "走向深水区~",
-  "author": "天玑",
-  "word_count": 2648
+  "date": "2025-02-07",
+  "title": "压力还要持续十几年",
+  "author": "金渐成",
+  "word_count": 2383
  },
  {
   "date": "2025-02-09",
-  "title": "看看你周围那些人~",
-  "author": "天玑",
-  "word_count": 2590
+  "title": "走向深水区",
+  "author": "金渐成",
+  "word_count": 2648
  },
  {
-  "date": "2025-02-13",
-  "title": "经历本身就是答案~",
-  "author": "天玑",
-  "word_count": 2687
+  "date": "2025-02-10",
+  "title": "看看你周围那些人",
+  "author": "金渐成",
+  "word_count": 2589
  },
  {
-  "date": "2025-02-20",
-  "title": "普通人的妙笔~",
-  "author": "天玑",
-  "word_count": 2275
+  "date": "2025-02-14",
+  "title": "经历本身就是答案",
+  "author": "金渐成",
+  "word_count": 2685
  },
  {
-  "date": "2025-02-23",
-  "title": "他们都回来了？",
-  "author": "天玑",
-  "word_count": 2821
+  "date": "2025-02-17",
+  "title": "路边的狗听了都遗憾",
+  "author": "金渐成",
+  "word_count": 2642
+ },
+ {
+  "date": "2025-02-18",
+  "title": "万科没有得救",
+  "author": "天机奇谈",
+  "word_count": 1354
+ },
+ {
+  "date": "2025-02-21",
+  "title": "普通人的妙笔",
+  "author": "金渐成",
+  "word_count": 2274
  },
  {
   "date": "2025-02-24",
-  "title": "“宇宙最重要财报”~",
-  "author": "天玑",
-  "word_count": 1870
+  "title": "他们都回来了",
+  "author": "金渐成",
+  "word_count": 2820
  },
  {
   "date": "2025-02-25",
-  "title": "“保姆级教程”~",
-  "author": "天玑",
-  "word_count": 3011
+  "title": "宇宙最重要财报",
+  "author": "金渐成",
+  "word_count": 1880
  },
  {
   "date": "2025-02-26",
-  "title": "走在薄冰上过河~",
-  "author": "天玑",
-  "word_count": 2476
+  "title": "保姆级教程",
+  "author": "金渐成",
+  "word_count": 3017
  },
  {
   "date": "2025-02-27",
-  "title": "特朗普风暴~",
-  "author": "天玑",
+  "title": "走在薄冰上过河",
+  "author": "金渐成",
+  "word_count": 2475
+ },
+ {
+  "date": "2025-02-28",
+  "title": "特朗普风暴",
+  "author": "金渐成",
   "word_count": 2588
  },
  {
-  "date": "2025-03-01",
-  "title": "终于尘埃落定~",
-  "author": "天玑",
-  "word_count": 1148
- },
- {
   "date": "2025-03-02",
-  "title": "有些话只能点到为止~",
-  "author": "天玑",
-  "word_count": 2233
+  "title": "终于尘埃落定",
+  "author": "金渐成",
+  "word_count": 1147
  },
  {
   "date": "2025-03-03",
-  "title": "被举报了~",
-  "author": "天玑",
-  "word_count": 2287
+  "title": "有些话只能点到为止",
+  "author": "金渐成",
+  "word_count": 2231
  },
  {
   "date": "2025-03-04",
-  "title": "离钱最近的地方~",
-  "author": "天玑",
-  "word_count": 1960
+  "title": "被举报了",
+  "author": "金渐成",
+  "word_count": 2285
  },
  {
-  "date": "2025-03-06",
-  "title": "何日君再来~",
-  "author": "天玑",
-  "word_count": 2628
+  "date": "2025-03-05",
+  "title": "离钱最近的地方",
+  "author": "金渐成",
+  "word_count": 1959
  },
  {
-  "date": "2025-03-09",
-  "title": "让一部分人更富一些~",
-  "author": "天玑",
-  "word_count": 2561
+  "date": "2025-03-07",
+  "title": "何日君再来",
+  "author": "金渐成",
+  "word_count": 2627
  },
  {
   "date": "2025-03-10",
-  "title": "抄底，刚刚开始~",
-  "author": "天玑",
-  "word_count": 2710
+  "title": "让一部分人更富一些",
+  "author": "金渐成",
+  "word_count": 2558
  },
  {
   "date": "2025-03-11",
-  "title": "跃出水面看前路~",
-  "author": "天玑",
-  "word_count": 2237
+  "title": "抄底刚刚开始",
+  "author": "金渐成",
+  "word_count": 2717
  },
  {
   "date": "2025-03-12",
-  "title": "写在春天里~",
-  "author": "天玑",
-  "word_count": 2808
+  "title": "跃出水面看前路",
+  "author": "金渐成",
+  "word_count": 2235
+ },
+ {
+  "date": "2025-03-13",
+  "title": "写在春天里",
+  "author": "金渐成",
+  "word_count": 2807
  },
  {
   "date": "2025-03-14",
-  "title": "一切都是最好的安排~",
-  "author": "天玑",
-  "word_count": 1735
+  "title": "转眼又是一年",
+  "author": "金渐成",
+  "word_count": 2018
  },
  {
-  "date": "2025-03-14",
-  "title": "转眼又是一年~",
-  "author": "天玑",
-  "word_count": 2019
+  "date": "2025-03-15",
+  "title": "一切都是最好的安排",
+  "author": "金渐成",
+  "word_count": 1733
  },
  {
-  "date": "2025-03-16",
-  "title": "那些我消失以后的日子~",
-  "author": "天玑",
-  "word_count": 2764
- },
- {
-  "date": "2025-03-18",
-  "title": "悬着的心终于放下了~",
-  "author": "天玑",
-  "word_count": 2323
+  "date": "2025-03-17",
+  "title": "那些我消失以后的日子",
+  "author": "金渐成",
+  "word_count": 2763
  },
  {
   "date": "2025-03-19",
-  "title": "选择比努力重要~",
-  "author": "天玑",
-  "word_count": 2922
+  "title": "悬着的心终于放下了",
+  "author": "金渐成",
+  "word_count": 2322
+ },
+ {
+  "date": "2025-03-20",
+  "title": "选择比努力重要",
+  "author": "金渐成",
+  "word_count": 2916
+ },
+ {
+  "date": "2025-03-24",
+  "title": "未来如洪流",
+  "author": "金渐成",
+  "word_count": 2605
  },
  {
   "date": "2025-03-25",
-  "title": "大跌怎么办？",
-  "author": "天玑",
-  "word_count": 2078
+  "title": "拥抱变化",
+  "author": "金渐成",
+  "word_count": 2938
  },
  {
-  "date": "2025-03-28",
-  "title": "隧道的尽头~",
-  "author": "天玑",
-  "word_count": 2541
+  "date": "2025-03-26",
+  "title": "大跌怎么办",
+  "author": "金渐成",
+  "word_count": 2077
  },
  {
-  "date": "2025-03-30",
-  "title": "该来的终于来了~",
-  "author": "天玑",
-  "word_count": 2345
+  "date": "2025-03-29",
+  "title": "隧道的尽头",
+  "author": "金渐成",
+  "word_count": 2539
  },
  {
   "date": "2025-03-31",
-  "title": "新的开始~",
-  "author": "天玑",
-  "word_count": 2334
+  "title": "该来的终于来了",
+  "author": "金渐成",
+  "word_count": 2343
  },
  {
-  "date": "2025-04-02",
-  "title": "风暴来袭~",
-  "author": "天玑",
-  "word_count": 1928
+  "date": "2025-04-01",
+  "title": "新的开始",
+  "author": "金渐成",
+  "word_count": 2333
  },
  {
   "date": "2025-04-03",
-  "title": "大暴跌？就这？？~",
-  "author": "天玑",
-  "word_count": 2344
+  "title": "风暴来袭",
+  "author": "金渐成",
+  "word_count": 1927
  },
  {
   "date": "2025-04-04",
-  "title": "开小灶~",
-  "author": "天玑",
-  "word_count": 1417
+  "title": "大暴跌就这",
+  "author": "金渐成",
+  "word_count": 2352
  },
  {
-  "date": "2025-04-04",
-  "title": "拍马赶到~",
-  "author": "天玑",
+  "date": "2025-04-05",
+  "title": "拍马赶到",
+  "author": "金渐成",
   "word_count": 2492
  },
  {
   "date": "2025-04-07",
-  "title": "上了深刻的一课~",
-  "author": "天玑",
+  "title": "上了深刻的一课",
+  "author": "金渐成",
   "word_count": 2510
  },
  {
   "date": "2025-04-07",
-  "title": "不完美的回答（1）~",
-  "author": "天玑",
-  "word_count": 1716
- },
- {
-  "date": "2025-04-07",
-  "title": "越无知越自信~",
-  "author": "天玑",
-  "word_count": 2980
+  "title": "不完美的回答1",
+  "author": "金渐成",
+  "word_count": 1715
  },
  {
   "date": "2025-04-08",
-  "title": "终有一天等到你~",
-  "author": "天玑",
+  "title": "越无知越自信",
+  "author": "金渐成",
+  "word_count": 2980
+ },
+ {
+  "date": "2025-04-09",
+  "title": "终有一天等到你",
+  "author": "金渐成",
   "word_count": 2451
  },
  {
-  "date": "2025-04-09",
-  "title": "一觉醒来发财了…",
-  "author": "天玑",
+  "date": "2025-04-10",
+  "title": "一觉醒来发财了",
+  "author": "金渐成",
   "word_count": 1237
  },
  {
-  "date": "2025-04-09",
-  "title": "不完美的回答（2）~",
-  "author": "天玑",
-  "word_count": 2519
- },
- {
   "date": "2025-04-11",
-  "title": "踏上孤独的旅程~",
-  "author": "天玑",
+  "title": "踏上孤独的旅程",
+  "author": "金渐成",
   "word_count": 2262
  },
  {
-  "date": "2025-04-13",
-  "title": "不要浪费每一次危机~",
-  "author": "天玑",
+  "date": "2025-04-14",
+  "title": "不要浪费每一次危机",
+  "author": "金渐成",
   "word_count": 3112
  },
  {
-  "date": "2025-04-14",
-  "title": "不要被短期波动裹挟~",
-  "author": "天玑",
+  "date": "2025-04-15",
+  "title": "不要被短期波动裹挟",
+  "author": "金渐成",
   "word_count": 3362
  },
  {
   "date": "2025-04-25",
-  "title": "看不懂的世界~",
-  "author": "天玑",
-  "word_count": 2379
+  "title": "看不懂的世界",
+  "author": "金渐成",
+  "word_count": 2377
  },
  {
-  "date": "2025-04-27",
-  "title": "请照顾好你的船~",
-  "author": "天玑",
+  "date": "2025-04-28",
+  "title": "请照顾好你的船",
+  "author": "金渐成",
   "word_count": 2565
  },
  {
-  "date": "2025-04-29",
-  "title": "没有标准答案~",
-  "author": "天玑",
-  "word_count": 2587
- },
- {
   "date": "2025-04-30",
-  "title": "一切并没有回到原点~",
-  "author": "天玑",
-  "word_count": 2406
+  "title": "没有标准答案",
+  "author": "金渐成",
+  "word_count": 2586
  },
  {
   "date": "2025-05-01",
-  "title": "被束缚在经验里~",
-  "author": "天玑",
-  "word_count": 2205
+  "title": "一切并没有回到原点",
+  "author": "金渐成",
+  "word_count": 2405
  },
  {
-  "date": "2025-05-06",
-  "title": "往大风吹的方向去~",
-  "author": "天玑",
+  "date": "2025-05-02",
+  "title": "被束缚在经验里",
+  "author": "金渐成",
+  "word_count": 2204
+ },
+ {
+  "date": "2025-05-07",
+  "title": "往大风吹的方向去",
+  "author": "金渐成",
   "word_count": 2305
  },
  {
-  "date": "2025-05-07",
-  "title": "不完美的回答（3）~",
-  "author": "天玑",
-  "word_count": 2765
+  "date": "2025-05-08",
+  "title": "冲击会非常大",
+  "author": "金渐成",
+  "word_count": 2231
  },
  {
-  "date": "2025-05-07",
-  "title": "冲击会非常大~",
-  "author": "天玑",
-  "word_count": 2232
+  "date": "2025-05-08",
+  "title": "幸运的大多数",
+  "author": "天机奇谈",
+  "word_count": 2038
  },
  {
-  "date": "2025-05-11",
-  "title": "平静应对…",
-  "author": "天玑",
-  "word_count": 2222
+  "date": "2025-05-09",
+  "title": "平凡的胜利",
+  "author": "天机奇谈",
+  "word_count": 2017
  },
  {
   "date": "2025-05-12",
-  "title": "赚钱的伦理问题~",
-  "author": "天玑",
-  "word_count": 2541
+  "title": "平静应对",
+  "author": "金渐成",
+  "word_count": 2222
  },
  {
   "date": "2025-05-13",
-  "title": "那些显而易见的蠢事~",
-  "author": "天玑",
-  "word_count": 2439
+  "title": "赚钱的伦理问题",
+  "author": "金渐成",
+  "word_count": 2540
  },
  {
   "date": "2025-05-14",
-  "title": "大炮又支愣起来了~",
-  "author": "天玑",
+  "title": "那些显而易见的蠢事",
+  "author": "金渐成",
+  "word_count": 2439
+ },
+ {
+  "date": "2025-05-15",
+  "title": "大炮又支愣起来了",
+  "author": "金渐成",
   "word_count": 2761
  },
  {
-  "date": "2025-05-18",
-  "title": "对抗时间的最优解~",
-  "author": "天玑",
-  "word_count": 3473
- },
- {
   "date": "2025-05-19",
-  "title": "不完美的回答（4）~",
-  "author": "天玑",
-  "word_count": 3761
+  "title": "对抗时间的最优解",
+  "author": "金渐成",
+  "word_count": 3468
  },
  {
-  "date": "2025-05-20",
-  "title": "让奇迹发生~",
-  "author": "天玑",
-  "word_count": 2305
+  "date": "2025-05-21",
+  "title": "让奇迹发生",
+  "author": "金渐成",
+  "word_count": 2304
  },
  {
-  "date": "2025-05-22",
-  "title": "别急，你还没到巅峰期~",
-  "author": "天玑",
-  "word_count": 2142
- },
- {
-  "date": "2025-05-26",
-  "title": "可以迷茫，不要迷路",
-  "author": "天玑",
-  "word_count": 2282
+  "date": "2025-05-23",
+  "title": "别急你还没到巅峰期",
+  "author": "金渐成",
+  "word_count": 2156
  },
  {
   "date": "2025-05-27",
-  "title": "改变不了潮水的方向~",
-  "author": "天玑",
-  "word_count": 2670
+  "title": "可以迷茫不要迷路",
+  "author": "金渐成",
+  "word_count": 2291
  },
  {
   "date": "2025-05-28",
-  "title": "重回巅峰~",
-  "author": "天玑",
-  "word_count": 2296
+  "title": "改变不了潮水的方向",
+  "author": "金渐成",
+  "word_count": 2669
  },
  {
   "date": "2025-05-29",
-  "title": "成为另外一种人~",
-  "author": "天玑",
-  "word_count": 2777
+  "title": "重回巅峰",
+  "author": "金渐成",
+  "word_count": 2296
  },
  {
   "date": "2025-05-30",
-  "title": "人对了，事就对了~",
-  "author": "天玑",
-  "word_count": 2513
+  "title": "成为另外一种人",
+  "author": "金渐成",
+  "word_count": 2777
  },
  {
-  "date": "2025-06-03",
-  "title": "大势将至，未来已来~",
-  "author": "天玑",
-  "word_count": 2800
+  "date": "2025-05-31",
+  "title": "人对了事就对了",
+  "author": "金渐成",
+  "word_count": 2522
  },
  {
   "date": "2025-06-04",
-  "title": "只不过从头再来~",
-  "author": "天玑",
-  "word_count": 2454
+  "title": "大势将至未来已来",
+  "author": "金渐成",
+  "word_count": 2809
  },
  {
   "date": "2025-06-05",
-  "title": "最后的体面~",
-  "author": "天玑",
-  "word_count": 2477
+  "title": "只不过从头再来",
+  "author": "金渐成",
+  "word_count": 2453
  },
  {
-  "date": "2025-06-07",
-  "title": "做一个测试~",
-  "author": "天玑",
-  "word_count": 2000
+  "date": "2025-06-06",
+  "title": "最后的体面",
+  "author": "金渐成",
+  "word_count": 2476
  },
  {
   "date": "2025-06-09",
-  "title": "失而复得~",
-  "author": "天玑",
-  "word_count": 2049
+  "title": "重新上路了",
+  "author": "天机奇谈",
+  "word_count": 2369
  },
  {
   "date": "2025-06-10",
-  "title": "有钱人没有傻瓜~",
-  "author": "天玑",
-  "word_count": 2701
+  "title": "失而复得",
+  "author": "金渐成",
+  "word_count": 2048
  },
  {
   "date": "2025-06-11",
-  "title": "找到属于自己的节奏~",
-  "author": "天玑",
-  "word_count": 2268
+  "title": "有钱人没有傻瓜",
+  "author": "金渐成",
+  "word_count": 2700
  },
  {
   "date": "2025-06-12",
-  "title": "这个时代的“家常菜”~",
-  "author": "天玑",
-  "word_count": 2376
+  "title": "找到属于自己的节奏",
+  "author": "金渐成",
+  "word_count": 2267
  },
  {
   "date": "2025-06-13",
-  "title": "这篇你不看就亏了~",
-  "author": "天玑",
+  "title": "这个时代的家常菜",
+  "author": "金渐成",
+  "word_count": 2386
+ },
+ {
+  "date": "2025-06-14",
+  "title": "这篇你不看就亏了",
+  "author": "金渐成",
   "word_count": 2736
  },
  {
-  "date": "2025-06-15",
-  "title": "再回首~",
-  "author": "天玑",
-  "word_count": 2018
- },
- {
   "date": "2025-06-16",
-  "title": "回不去的世界~",
-  "author": "天玑",
-  "word_count": 2073
+  "title": "再回首",
+  "author": "金渐成",
+  "word_count": 2017
  },
  {
-  "date": "2025-06-18",
-  "title": "一段漫长的旅程~",
-  "author": "天玑",
-  "word_count": 2627
+  "date": "2025-06-17",
+  "title": "回不去的世界",
+  "author": "金渐成",
+  "word_count": 2072
  },
  {
   "date": "2025-06-19",
-  "title": "持久才是最难的~",
-  "author": "天玑",
-  "word_count": 2875
+  "title": "一段漫长的旅程",
+  "author": "金渐成",
+  "word_count": 2627
  },
  {
   "date": "2025-06-20",
-  "title": "一切尽在不言中~",
-  "author": "天玑",
-  "word_count": 3335
- },
- {
-  "date": "2025-06-22",
-  "title": "硝烟从未散尽~",
-  "author": "天玑",
-  "word_count": 2363
+  "title": "持久才是最难的",
+  "author": "金渐成",
+  "word_count": 2875
  },
  {
   "date": "2025-06-23",
-  "title": "没有标题~",
-  "author": "天玑",
-  "word_count": 2357
+  "title": "硝烟从未散尽",
+  "author": "金渐成",
+  "word_count": 2362
+ },
+ {
+  "date": "2025-06-24",
+  "title": "没有标题",
+  "author": "金渐成",
+  "word_count": 2356
  },
  {
   "date": "2025-06-25",
-  "title": "创历史新高了~",
-  "author": "天玑",
-  "word_count": 2347
+  "title": "摸着石头过河",
+  "author": "金渐成",
+  "word_count": 1944
  },
  {
   "date": "2025-06-26",
-  "title": "离开一段时间~",
-  "author": "天玑",
-  "word_count": 2402
+  "title": "创历史新高了",
+  "author": "金渐成",
+  "word_count": 2345
  },
  {
-  "date": "2025-07-02",
-  "title": "终局之战到来~",
-  "author": "天玑",
+  "date": "2025-06-27",
+  "title": "离开一段时间",
+  "author": "金渐成",
+  "word_count": 2401
+ },
+ {
+  "date": "2025-06-29",
+  "title": "这些天筹备去欧洲旅行的事基本上不会有更新新来的读者可以看看历史文章我做了",
+  "author": "金渐成",
+  "word_count": 578
+ },
+ {
+  "date": "2025-07-03",
+  "title": "终局之战到来",
+  "author": "金渐成",
   "word_count": 2088
  },
  {
-  "date": "2025-07-08",
-  "title": "建立自己的城邦~",
-  "author": "天玑",
+  "date": "2025-07-09",
+  "title": "建立自己的城邦",
+  "author": "金渐成",
   "word_count": 2619
  },
  {
-  "date": "2025-07-13",
-  "title": "听见未来的回响~",
-  "author": "天玑",
-  "word_count": 2243
+  "date": "2025-07-14",
+  "title": "听见未来的回响",
+  "author": "金渐成",
+  "word_count": 2242
  },
  {
-  "date": "2025-07-15",
-  "title": "活在欲望之外~",
-  "author": "天玑",
-  "word_count": 2252
+  "date": "2025-07-16",
+  "title": "活在欲望之外",
+  "author": "金渐成",
+  "word_count": 2249
  },
  {
   "date": "2025-07-20",
-  "title": "时光里的灰烬~",
-  "author": "天玑",
-  "word_count": 2415
+  "title": "时光里的灰烬",
+  "author": "金渐成",
+  "word_count": 2414
  },
  {
-  "date": "2025-07-21",
-  "title": "让我再看你一眼~",
-  "author": "天玑",
+  "date": "2025-07-22",
+  "title": "让我再看你一眼",
+  "author": "金渐成",
   "word_count": 1881
  },
  {
   "date": "2025-07-31",
-  "title": "世界已经永远改变了~",
-  "author": "天玑",
-  "word_count": 2514
- },
- {
-  "date": "2025-07-31",
-  "title": "如期而至~",
-  "author": "天玑",
+  "title": "如期而至",
+  "author": "金渐成",
   "word_count": 2126
  },
  {
-  "date": "2025-08-06",
-  "title": "想成为那样的人~",
-  "author": "天玑",
-  "word_count": 2422
+  "date": "2025-08-01",
+  "title": "世界已经永远改变了",
+  "author": "金渐成",
+  "word_count": 2513
  },
  {
   "date": "2025-08-06",
-  "title": "掀开幕布的一角~",
-  "author": "天玑",
-  "word_count": 2658
+  "title": "想成为那样的人",
+  "author": "金渐成",
+  "word_count": 2421
  },
  {
-  "date": "2025-08-10",
-  "title": "保留了一点幸运~",
-  "author": "天玑",
-  "word_count": 2113
+  "date": "2025-08-07",
+  "title": "掀开幕布的一角",
+  "author": "金渐成",
+  "word_count": 2657
+ },
+ {
+  "date": "2025-08-11",
+  "title": "保留了一点幸运",
+  "author": "金渐成",
+  "word_count": 2112
  },
  {
   "date": "2025-08-13",
-  "title": "你看不见的世界~",
-  "author": "天玑",
-  "word_count": 2328
+  "title": "一个重要的时间窗口",
+  "author": "天机奇谈",
+  "word_count": 1979
  },
  {
   "date": "2025-08-14",
-  "title": "巴菲特出手了~",
-  "author": "天玑",
-  "word_count": 1996
+  "title": "你看不见的世界",
+  "author": "金渐成",
+  "word_count": 2327
  },
  {
-  "date": "2025-08-24",
-  "title": "妙不可言~",
-  "author": "天玑",
-  "word_count": 2180
+  "date": "2025-08-15",
+  "title": "巴菲特出手了",
+  "author": "金渐成",
+  "word_count": 1995
  },
  {
   "date": "2025-08-25",
-  "title": "通道又断了一条~",
-  "author": "天玑",
-  "word_count": 2122
+  "title": "妙不可言",
+  "author": "金渐成",
+  "word_count": 2179
  },
  {
-  "date": "2025-08-27",
-  "title": "狂飙的印钞机~",
-  "author": "天玑",
-  "word_count": 2232
+  "date": "2025-08-26",
+  "title": "通道又断了一条",
+  "author": "金渐成",
+  "word_count": 2115
  },
  {
-  "date": "2025-09-02",
-  "title": "答案在风中飘扬~",
-  "author": "天玑",
-  "word_count": 2053
+  "date": "2025-08-28",
+  "title": "狂飙的印钞机",
+  "author": "金渐成",
+  "word_count": 2230
+ },
+ {
+  "date": "2025-09-03",
+  "title": "答案在风中飘扬",
+  "author": "金渐成",
+  "word_count": 2052
  },
  {
   "date": "2025-09-04",
-  "title": "意外的收获~",
-  "author": "天玑",
-  "word_count": 2188
- },
- {
-  "date": "2025-09-07",
-  "title": "向水深处走去~",
-  "author": "天玑",
-  "word_count": 2494
+  "title": "意外的收获",
+  "author": "金渐成",
+  "word_count": 2187
  },
  {
   "date": "2025-09-08",
-  "title": "大跃进时代~",
-  "author": "天玑",
-  "word_count": 2475
+  "title": "向水深处走去",
+  "author": "金渐成",
+  "word_count": 2493
  },
  {
   "date": "2025-09-09",
-  "title": "拨开云雾~",
-  "author": "天玑",
-  "word_count": 3320
- },
- {
-  "date": "2025-09-09",
-  "title": "这一路的颠沛流离~",
-  "author": "天玑",
-  "word_count": 2415
- },
- {
-  "date": "2025-09-11",
-  "title": "人生短短急个球~",
-  "author": "天玑",
-  "word_count": 2063
- },
- {
-  "date": "2025-09-14",
-  "title": "你所不知道的…",
-  "author": "天玑",
-  "word_count": 2361
- },
- {
-  "date": "2025-09-15",
-  "title": "白马穿过至暗时刻~",
-  "author": "天玑",
-  "word_count": 2083
- },
- {
-  "date": "2025-09-21",
-  "title": "我所见到的未来~",
-  "author": "天玑",
-  "word_count": 3422
- },
- {
-  "date": "2025-09-22",
-  "title": "灰烬深处有余温~",
-  "author": "天玑",
-  "word_count": 2215
- },
- {
-  "date": "2025-09-24",
-  "title": "发财是一场意外~",
-  "author": "天玑",
-  "word_count": 2168
- },
- {
-  "date": "2025-09-29",
-  "title": "变化正在发生~",
-  "author": "天玑",
+  "title": "大跃进时代",
+  "author": "金渐成",
   "word_count": 2474
  },
  {
-  "date": "2025-09-30",
-  "title": "赚钱有多难？",
-  "author": "天玑",
-  "word_count": 3374
+  "date": "2025-09-10",
+  "title": "这一路的颠沛流离",
+  "author": "金渐成",
+  "word_count": 2404
  },
  {
-  "date": "2025-10-08",
-  "title": "涨瞎了双眼~",
-  "author": "天玑",
-  "word_count": 2371
+  "date": "2025-09-12",
+  "title": "人生短短急个球",
+  "author": "金渐成",
+  "word_count": 2062
  },
  {
-  "date": "2025-10-09",
-  "title": "一切才刚刚开始~",
-  "author": "天玑",
-  "word_count": 2630
+  "date": "2025-09-15",
+  "title": "你所不知道的",
+  "author": "金渐成",
+  "word_count": 2360
  },
  {
-  "date": "2025-10-13",
-  "title": "一切自有答案~",
-  "author": "天玑",
-  "word_count": 2057
+  "date": "2025-09-16",
+  "title": "白马穿过至暗时刻",
+  "author": "金渐成",
+  "word_count": 2082
  },
  {
-  "date": "2025-10-14",
-  "title": "惊涛之后，开始筑堤~",
-  "author": "天玑",
-  "word_count": 2315
+  "date": "2025-09-22",
+  "title": "我所见到的未来",
+  "author": "金渐成",
+  "word_count": 3419
  },
  {
-  "date": "2025-10-15",
-  "title": "笑渐不闻声渐悄~",
-  "author": "天玑",
-  "word_count": 2641
+  "date": "2025-09-23",
+  "title": "灰烬深处有余温",
+  "author": "金渐成",
+  "word_count": 2213
  },
  {
-  "date": "2025-10-19",
-  "title": "我的生存之道~",
-  "author": "天玑",
-  "word_count": 2564
- },
- {
-  "date": "2025-10-20",
-  "title": "不必再等旧人归~",
-  "author": "天玑",
-  "word_count": 2432
- },
- {
-  "date": "2025-10-21",
-  "title": "我们也该向前看了~",
-  "author": "天玑",
-  "word_count": 2226
- },
- {
-  "date": "2025-10-26",
-  "title": "钱多得无处可去~",
-  "author": "天玑",
-  "word_count": 2722
- },
- {
-  "date": "2025-10-27",
-  "title": "备胎转正~",
-  "author": "天玑",
-  "word_count": 2154
- },
- {
-  "date": "2025-10-28",
-  "title": "睡后收入~",
-  "author": "天玑",
-  "word_count": 2545
- },
- {
-  "date": "2025-10-29",
-  "title": "造富神话~",
-  "author": "天玑",
-  "word_count": 3125
- },
- {
-  "date": "2025-10-30",
-  "title": "暴跌终于来了~",
-  "author": "天玑",
-  "word_count": 2272
- },
- {
-  "date": "2025-11-02",
-  "title": "此刻心定~",
-  "author": "天玑",
-  "word_count": 2534
- },
- {
-  "date": "2025-11-03",
-  "title": "一去不复返~",
-  "author": "天玑",
-  "word_count": 2702
- },
- {
-  "date": "2025-11-04",
-  "title": "终于还是来了~",
-  "author": "天玑",
-  "word_count": 2044
- },
- {
-  "date": "2025-11-05",
-  "title": "去了一趟英伟达总部~",
-  "author": "天玑",
-  "word_count": 2521
- },
- {
-  "date": "2025-11-09",
-  "title": "强得悄无声息~",
-  "author": "天玑",
-  "word_count": 2554
- },
- {
-  "date": "2025-11-10",
-  "title": "最后的精髓~",
-  "author": "天玑",
-  "word_count": 2371
- },
- {
-  "date": "2025-11-16",
-  "title": "巨佬第二次抬轿~",
-  "author": "天玑",
-  "word_count": 2090
- },
- {
-  "date": "2025-11-17",
-  "title": "岁月如刀，斩天骄~",
-  "author": "天玑",
+  "date": "2025-09-25",
+  "title": "发财是一场意外",
+  "author": "金渐成",
   "word_count": 2168
  },
  {
+  "date": "2025-09-30",
+  "title": "变化正在发生",
+  "author": "金渐成",
+  "word_count": 2473
+ },
+ {
+  "date": "2025-10-01",
+  "title": "赚钱有多难",
+  "author": "金渐成",
+  "word_count": 3367
+ },
+ {
+  "date": "2025-10-02",
+  "title": "美股继续上涨强势得一塌糊涂n随着这段时间个股的涨跌不同我持仓的情况有些变",
+  "author": "金渐成",
+  "word_count": 1972
+ },
+ {
+  "date": "2025-10-03",
+  "title": "英伟达190减仓5顺利触发后续还有195和200各减仓5两个设置",
+  "author": "金渐成",
+  "word_count": 1954
+ },
+ {
+  "date": "2025-10-05",
+  "title": "之前写过我喜欢买的个股分为两类",
+  "author": "金渐成",
+  "word_count": 1932
+ },
+ {
+  "date": "2025-10-06",
+  "title": "AMD大涨375得益于它与OpenAI牵手达成一项多年期协议",
+  "author": "金渐成",
+  "word_count": 1944
+ },
+ {
+  "date": "2025-10-07",
+  "title": "日经225这几天涨麻了这是资本市场对新任女首相在用脚投票",
+  "author": "金渐成",
+  "word_count": 1934
+ },
+ {
+  "date": "2025-10-08",
+  "title": "日本2025年第二位诺奖得主诞生日本著名化学家京都大学的北川进教授",
+  "author": "金渐成",
+  "word_count": 1912
+ },
+ {
+  "date": "2025-10-09",
+  "title": "涨瞎了双眼",
+  "author": "金渐成",
+  "word_count": 3672
+ },
+ {
+  "date": "2025-10-10",
+  "title": "一切才刚刚开始",
+  "author": "金渐成",
+  "word_count": 2628
+ },
+ {
+  "date": "2025-10-11",
+  "title": "美股大暴跌纳指跌了356标普500跌了271",
+  "author": "金渐成",
+  "word_count": 1350
+ },
+ {
+  "date": "2025-10-14",
+  "title": "一切自有答案",
+  "author": "金渐成",
+  "word_count": 2056
+ },
+ {
+  "date": "2025-10-15",
+  "title": "惊涛之后开始筑堤",
+  "author": "金渐成",
+  "word_count": 2317
+ },
+ {
+  "date": "2025-10-16",
+  "title": "万科这段时间并不平静黄力平上辛杰下祝九胜终尝败绩",
+  "author": "天机奇谈",
+  "word_count": 967
+ },
+ {
+  "date": "2025-10-16",
+  "title": "笑渐不闻声渐悄",
+  "author": "金渐成",
+  "word_count": 2640
+ },
+ {
+  "date": "2025-10-20",
+  "title": "我的生存之道",
+  "author": "金渐成",
+  "word_count": 2564
+ },
+ {
+  "date": "2025-10-21",
+  "title": "不必再等旧人归",
+  "author": "金渐成",
+  "word_count": 2427
+ },
+ {
+  "date": "2025-10-22",
+  "title": "我们也该向前看了",
+  "author": "金渐成",
+  "word_count": 2226
+ },
+ {
+  "date": "2025-10-23",
+  "title": "在底层互掐中产内卷富人联姻现象非常普遍的时代我很佩服两种人穷不丧志富不躺",
+  "author": "金渐成",
+  "word_count": 1934
+ },
+ {
+  "date": "2025-10-27",
+  "title": "钱多得无处可去",
+  "author": "金渐成",
+  "word_count": 2721
+ },
+ {
+  "date": "2025-10-28",
+  "title": "备胎转正",
+  "author": "金渐成",
+  "word_count": 2153
+ },
+ {
+  "date": "2025-10-29",
+  "title": "睡后收入",
+  "author": "金渐成",
+  "word_count": 2544
+ },
+ {
+  "date": "2025-10-30",
+  "title": "造富神话",
+  "author": "金渐成",
+  "word_count": 3124
+ },
+ {
+  "date": "2025-10-31",
+  "title": "暴跌终于来了",
+  "author": "金渐成",
+  "word_count": 2271
+ },
+ {
+  "date": "2025-11-01",
+  "title": "写了一段很重要的评论看法审核无法通过发送失败",
+  "author": "金渐成",
+  "word_count": 1940
+ },
+ {
+  "date": "2025-11-03",
+  "title": "此刻心定",
+  "author": "金渐成",
+  "word_count": 2533
+ },
+ {
+  "date": "2025-11-04",
+  "title": "一去不复返",
+  "author": "金渐成",
+  "word_count": 2702
+ },
+ {
+  "date": "2025-11-06",
+  "title": "去了一趟英伟达总部",
+  "author": "金渐成",
+  "word_count": 2520
+ },
+ {
+  "date": "2025-11-07",
+  "title": "美股大跌纳指跌19标普500跌112对应了昨天说的那个补缺口",
+  "author": "金渐成",
+  "word_count": 1948
+ },
+ {
+  "date": "2025-11-08",
+  "title": "过去20小时对币圈的有些人来说堪称煎熬惊魂USDX暴雷事发突然投资者只能",
+  "author": "金渐成",
+  "word_count": 1952
+ },
+ {
+  "date": "2025-11-09",
+  "title": "最近一期的广子应读者要求那期保险收益我还是和过往一样都捐赠给腾讯公益中那",
+  "author": "金渐成",
+  "word_count": 1106
+ },
+ {
+  "date": "2025-11-10",
+  "title": "强得悄无声息",
+  "author": "金渐成",
+  "word_count": 2553
+ },
+ {
+  "date": "2025-11-11",
+  "title": "最后的精髓",
+  "author": "金渐成",
+  "word_count": 2371
+ },
+ {
+  "date": "2025-11-14",
+  "title": "美股暴跌纳指下跌229标普500下跌166科技股领跌伯克希尔和强生这类避",
+  "author": "金渐成",
+  "word_count": 1948
+ },
+ {
+  "date": "2025-11-15",
+  "title": "币圈又是血流成河的惨烈走势大饼跌至94万美元支撑位二饼跌至3050美元最",
+  "author": "金渐成",
+  "word_count": 1936
+ },
+ {
+  "date": "2025-11-16",
+  "title": "巨佬第二次抬轿",
+  "author": "金渐成",
+  "word_count": 2089
+ },
+ {
   "date": "2025-11-18",
-  "title": "难以避免的坠落~",
-  "author": "天玑",
+  "title": "岁月如刀斩天骄",
+  "author": "金渐成",
+  "word_count": 2176
+ },
+ {
+  "date": "2025-11-19",
+  "title": "难以避免的坠落",
+  "author": "金渐成",
   "word_count": 1947
  },
  {
-  "date": "2025-11-20",
-  "title": "账户蹦起了迪~",
-  "author": "天玑",
-  "word_count": 2142
+  "date": "2025-11-21",
+  "title": "账户蹦起了迪",
+  "author": "金渐成",
+  "word_count": 2141
  },
  {
-  "date": "2025-11-23",
-  "title": "未来并非我所能见~",
-  "author": "天玑",
-  "word_count": 2660
+  "date": "2025-11-24",
+  "title": "未来并非我所能见",
+  "author": "金渐成",
+  "word_count": 2659
  },
  {
   "date": "2025-11-25",
-  "title": "调仓，长梦已醒~",
-  "author": "天玑",
-  "word_count": 2339
+  "title": "美股大涨标普500上涨155纳指暴涨269未来数周美股预计将持续震荡",
+  "author": "金渐成",
+  "word_count": 1950
  },
  {
   "date": "2025-11-26",
-  "title": "做自己的女娲~",
-  "author": "天玑",
-  "word_count": 2045
+  "title": "调仓长梦已醒",
+  "author": "金渐成",
+  "word_count": 2345
  },
  {
-  "date": "2025-12-01",
-  "title": "为未来撒下种子~",
-  "author": "天玑",
-  "word_count": 2204
+  "date": "2025-11-27",
+  "title": "做自己的女娲",
+  "author": "金渐成",
+  "word_count": 2044
  },
  {
-  "date": "2025-12-03",
-  "title": "又被举报了~",
-  "author": "天玑",
-  "word_count": 1860
+  "date": "2025-12-02",
+  "title": "为未来撒下种子",
+  "author": "金渐成",
+  "word_count": 2180
  },
  {
   "date": "2025-12-04",
-  "title": "好时光一去不复返~",
-  "author": "天玑",
-  "word_count": 2383
+  "title": "又被举报了",
+  "author": "金渐成",
+  "word_count": 1860
  },
  {
-  "date": "2025-12-07",
-  "title": "我们不能再摔倒了~",
-  "author": "天玑",
+  "date": "2025-12-05",
+  "title": "好时光一去不复返",
+  "author": "金渐成",
+  "word_count": 2382
+ },
+ {
+  "date": "2025-12-08",
+  "title": "我们不能再摔倒了",
+  "author": "金渐成",
   "word_count": 2158
  },
  {
-  "date": "2025-12-10",
-  "title": "无数被改变的命运~",
-  "author": "天玑",
-  "word_count": 2883
+  "date": "2025-12-11",
+  "title": "无数被改变的命运",
+  "author": "金渐成",
+  "word_count": 2881
  },
  {
-  "date": "2025-12-11",
-  "title": "触摸未来~",
-  "author": "天玑",
+  "date": "2025-12-12",
+  "title": "触摸未来",
+  "author": "金渐成",
   "word_count": 1920
  },
  {
-  "date": "2025-12-17",
-  "title": "好草就得回头吃~",
-  "author": "天玑",
-  "word_count": 2353
+  "date": "2025-12-16",
+  "title": "迷途不知返",
+  "author": "金渐成",
+  "word_count": 2655
  },
  {
   "date": "2025-12-18",
-  "title": "一场漫长的告别~",
-  "author": "天玑",
+  "title": "好草就得回头吃",
+  "author": "金渐成",
+  "word_count": 2352
+ },
+ {
+  "date": "2025-12-19",
+  "title": "一场漫长的告别",
+  "author": "金渐成",
   "word_count": 2380
  },
  {
-  "date": "2025-12-30",
-  "title": "开启新篇章~",
-  "author": "天玑",
-  "word_count": 2002
+  "date": "2025-12-24",
+  "title": "这两天在新加坡走了走跟一些老朋友碰面了解他们的动向收获不小挺喜欢这样的交",
+  "author": "金渐成",
+  "word_count": 1946
  },
  {
   "date": "2025-12-31",
-  "title": "我的2025年~",
-  "author": "天玑",
-  "word_count": 2512
+  "title": "开启新篇章",
+  "author": "金渐成",
+  "word_count": 2002
  },
  {
   "date": "2026-01-01",
-  "title": "最后的悬念~",
-  "author": "天玑",
+  "title": "我的2025年",
+  "author": "金渐成",
+  "word_count": 2512
+ },
+ {
+  "date": "2026-01-02",
+  "title": "最后的悬念",
+  "author": "金渐成",
   "word_count": 2218
  },
  {
-  "date": "2026-01-11",
-  "title": "走入风暴眼～",
-  "author": "天玑",
-  "word_count": 2413
+  "date": "2026-01-12",
+  "title": "走入风暴眼",
+  "author": "金渐成",
+  "word_count": 2412
  },
  {
   "date": "2026-01-13",
-  "title": "狂飙之后~",
-  "author": "天玑",
-  "word_count": 2947
+  "title": "长梦已醒",
+  "author": "天机奇谈",
+  "word_count": 2563
  },
  {
   "date": "2026-01-14",
-  "title": "风雨骤急，驶向下一站~",
-  "author": "天玑",
-  "word_count": 2800
+  "title": "狂飙之后",
+  "author": "金渐成",
+  "word_count": 2947
  },
  {
   "date": "2026-01-15",
-  "title": "他们都没做错什么~",
-  "author": "天玑",
-  "word_count": 3141
+  "title": "风雨骤急驶向下一站",
+  "author": "金渐成",
+  "word_count": 2810
  },
  {
-  "date": "2026-01-18",
-  "title": "能坚持一两件事就足够了~",
-  "author": "天玑",
-  "word_count": 2272
+  "date": "2026-01-16",
+  "title": "他们都没做错什么",
+  "author": "金渐成",
+  "word_count": 3140
  },
  {
   "date": "2026-01-19",
-  "title": "天降喜讯~",
-  "author": "天玑",
-  "word_count": 2642
+  "title": "能坚持一两件事就足够了",
+  "author": "金渐成",
+  "word_count": 2272
  },
  {
   "date": "2026-01-20",
-  "title": "这生意，开了台印钞机~",
-  "author": "天玑",
-  "word_count": 2928
+  "title": "天降喜讯",
+  "author": "金渐成",
+  "word_count": 2642
  },
  {
   "date": "2026-01-21",
-  "title": "没文化真可怕~",
-  "author": "天玑",
-  "word_count": 2842
+  "title": "这生意开了台印钞机",
+  "author": "金渐成",
+  "word_count": 2938
  },
  {
   "date": "2026-01-22",
-  "title": "又被毒打得骂骂咧咧~",
-  "author": "天玑",
+  "title": "没文化真可怕",
+  "author": "金渐成",
+  "word_count": 2841
+ },
+ {
+  "date": "2026-01-23",
+  "title": "又被毒打得骂骂咧咧",
+  "author": "金渐成",
   "word_count": 2433
  },
  {
   "date": "2026-01-27",
-  "title": "一笑已经风云过~",
-  "author": "天玑",
-  "word_count": 2552
+  "title": "被人讨厌不是缺点想被所有人喜欢才是有毛病假期快到了如今这环境回家要慎言别",
+  "author": "金渐成",
+  "word_count": 1956
  },
  {
   "date": "2026-01-28",
-  "title": "冰火两重天，真香~",
-  "author": "天玑",
-  "word_count": 2729
+  "title": "一笑已经风云过",
+  "author": "金渐成",
+  "word_count": 2550
  },
  {
   "date": "2026-01-29",
-  "title": "这样赚钱，有点意思~",
-  "author": "天玑",
-  "word_count": 2568
+  "title": "冰火两重天真香",
+  "author": "金渐成",
+  "word_count": 2737
+ },
+ {
+  "date": "2026-01-29",
+  "title": "大宗商品真是涨疯了金银狂飙铜铝突飞猛进舆论对市场情绪的影响实在大",
+  "author": "天机奇谈",
+  "word_count": 984
+ },
+ {
+  "date": "2026-01-30",
+  "title": "这样赚钱有点意思",
+  "author": "金渐成",
+  "word_count": 2577
+ },
+ {
+  "date": "2026-01-31",
+  "title": "黄金和白银大跌跌得挺好的前天提示过风险市场越疯狂越要冷静看这里问的人特别",
+  "author": "金渐成",
+  "word_count": 1980
  },
  {
   "date": "2026-02-01",
-  "title": "防范于未然~",
-  "author": "天玑",
-  "word_count": 1996
+  "title": "加密货币也爆跌大饼这两天跌了10最大的平台饼跌了15我得益于前两三个月转",
+  "author": "金渐成",
+  "word_count": 1972
  },
  {
-  "date": "2026-02-04",
-  "title": "终于还是崩了~",
-  "author": "天玑",
-  "word_count": 2651
+  "date": "2026-02-02",
+  "title": "金银等贵金属从暴涨到暴跌黄金继续暴跌8白银跌14两天抹去一个月的涨幅",
+  "author": "天机奇谈",
+  "word_count": 977
  },
  {
-  "date": "2026-02-07",
-  "title": "我最成功的投资~",
-  "author": "天玑",
-  "word_count": 3063
+  "date": "2026-02-02",
+  "title": "防范于未然",
+  "author": "金渐成",
+  "word_count": 1995
+ },
+ {
+  "date": "2026-02-05",
+  "title": "终于还是崩了",
+  "author": "金渐成",
+  "word_count": 2650
+ },
+ {
+  "date": "2026-02-06",
+  "title": "美股崩了个大的截止目前纳指100暴跌254标普500大跌187亚马逊公布",
+  "author": "金渐成",
+  "word_count": 2032
+ },
+ {
+  "date": "2026-02-08",
+  "title": "我最成功的投资",
+  "author": "金渐成",
+  "word_count": 3062
+ },
+ {
+  "date": "2026-02-16",
+  "title": "美股这段时间很震荡但防守型资产普遍上涨较凶猛我防守型账户中除伯克希尔外可",
+  "author": "金渐成",
+  "word_count": 2002
+ },
+ {
+  "date": "2026-02-18",
+  "title": "出海已成趋势对企业和中高净值群体来说已从未来可选项变成了必选项但因各种原",
+  "author": "金渐成",
+  "word_count": 1952
+ },
+ {
+  "date": "2026-02-20",
+  "title": "早上孩子们在农场里玩老大带着老三去水边钓鱼老二坐在身边陪我闲聊她问我对于",
+  "author": "金渐成",
+  "word_count": 1968
  },
  {
   "date": "2026-02-21",
-  "title": "终将毫无波澜~",
-  "author": "天玑",
+  "title": "不经意间错过",
+  "author": "金渐成",
+  "word_count": 982
+ },
+ {
+  "date": "2026-02-22",
+  "title": "终将毫无波澜",
+  "author": "金渐成",
   "word_count": 2209
  },
  {
-  "date": "2026-02-24",
-  "title": "你看我还有机会吗？",
-  "author": "天玑",
+  "date": "2026-02-25",
+  "title": "你看我还有机会吗",
+  "author": "金渐成",
   "word_count": 2836
  },
  {
+  "date": "2026-02-27",
+  "title": "赚多少钱是运气守下多少钱是能力打江山难守江山更难",
+  "author": "天机奇谈",
+  "word_count": 984
+ },
+ {
+  "date": "2026-03-01",
+  "title": "终于还是来了",
+  "author": "金渐成",
+  "word_count": 998
+ },
+ {
+  "date": "2026-03-02",
+  "title": "我要休息一段时间了",
+  "author": "金渐成",
+  "word_count": 969
+ },
+ {
   "date": "2026-03-15",
-  "title": "富人别玩命~",
-  "author": "天玑",
+  "title": "富人别玩命",
+  "author": "金渐成",
   "word_count": 2224
  },
  {
   "date": "2026-03-17",
-  "title": "最好的下一步~",
-  "author": "天玑",
+  "title": "制服的诱惑",
+  "author": "天机奇谈",
+  "word_count": 2197
+ },
+ {
+  "date": "2026-03-18",
+  "title": "最好的下一步",
+  "author": "金渐成",
   "word_count": 1805
  },
  {
-  "date": "2026-03-22",
-  "title": "风继续吹~",
-  "author": "天玑",
-  "word_count": 2249
+  "date": "2026-03-19",
+  "title": "穿过一个时代",
+  "author": "天机奇谈",
+  "word_count": 1962
  },
  {
-  "date": "2026-03-26",
-  "title": "都是赔光的命~",
-  "author": "天玑",
-  "word_count": 2696
+  "date": "2026-03-21",
+  "title": "开始抄底了",
+  "author": "金渐成",
+  "word_count": 1049
  },
  {
-  "date": "2026-03-29",
-  "title": "钱是这么赚来的~",
-  "author": "天玑",
-  "word_count": 2126
+  "date": "2026-03-23",
+  "title": "今天市场血流成河说句可能会被打的话我心里暗爽并捞了一些筹码进来并期待着后",
+  "author": "天机奇谈",
+  "word_count": 1023
+ },
+ {
+  "date": "2026-03-23",
+  "title": "风继续吹",
+  "author": "金渐成",
+  "word_count": 2337
+ },
+ {
+  "date": "2026-03-27",
+  "title": "都是赔光的命",
+  "author": "金渐成",
+  "word_count": 2695
+ },
+ {
+  "date": "2026-03-30",
+  "title": "钱是这么赚来的",
+  "author": "金渐成",
+  "word_count": 2125
+ },
+ {
+  "date": "2026-03-31",
+  "title": "美股继续下跌我满心欢喜按照原计划的既定节奏逐步加仓",
+  "author": "金渐成",
+  "word_count": 2058
+ },
+ {
+  "date": "2026-04-01",
+  "title": "没有东山再起",
+  "author": "天机奇谈",
+  "word_count": 2326
+ },
+ {
+  "date": "2026-04-02",
+  "title": "全球股市大涨大跌上蹿下跳猴市行情",
+  "author": "天机奇谈",
+  "word_count": 1920
  },
  {
   "date": "2026-04-07",
-  "title": "最伟大的交易员~",
-  "author": "天玑",
-  "word_count": 2483
+  "title": "美股现在挺无聊的常常开盘是红的你还以为东升西落结果收盘连大姨妈都成绿的了",
+  "author": "金渐成",
+  "word_count": 2046
  },
  {
-  "date": "2026-04-09",
-  "title": "六年之后再回首~",
-  "author": "天玑",
+  "date": "2026-04-08",
+  "title": "最伟大的交易员",
+  "author": "金渐成",
+  "word_count": 2482
+ },
+ {
+  "date": "2026-04-10",
+  "title": "六年之后再回首",
+  "author": "金渐成",
   "word_count": 2220
  },
  {
-  "date": "2026-04-11",
-  "title": "开始一个新阶段~",
-  "author": "天玑",
-  "word_count": 2807
- },
- {
-  "date": "2026-04-12",
-  "title": "上岸不提船上事~",
-  "author": "天玑",
-  "word_count": 2334
- },
- {
   "date": "2026-04-13",
-  "title": "才刚刚开始~",
-  "author": "天玑",
-  "word_count": 2987
+  "title": "上岸不提船上事",
+  "author": "金渐成",
+  "word_count": 2332
  },
  {
   "date": "2026-04-14",
-  "title": "脱掉衣冠楚楚的衣服~",
-  "author": "天玑",
-  "word_count": 2150
+  "title": "才刚刚开始",
+  "author": "金渐成",
+  "word_count": 2979
  },
  {
   "date": "2026-04-15",
-  "title": "一个漫长的故事翻篇了~",
-  "author": "天玑",
-  "word_count": 2635
+  "title": "脱掉衣冠楚楚的衣服",
+  "author": "金渐成",
+  "word_count": 2149
  },
  {
   "date": "2026-04-16",
-  "title": "从娃娃抓起~",
-  "author": "天玑",
+  "title": "一个漫长的故事翻篇了",
+  "author": "金渐成",
+  "word_count": 2634
+ },
+ {
+  "date": "2026-04-17",
+  "title": "从娃娃抓起",
+  "author": "金渐成",
   "word_count": 4178
  },
  {
-  "date": "2026-04-22",
-  "title": "一个都不能少~",
-  "author": "天玑",
-  "word_count": 2294
+  "date": "2026-04-23",
+  "title": "一个都不能少",
+  "author": "金渐成",
+  "word_count": 2292
  },
  {
-  "date": "2026-04-25",
-  "title": "好时光一去不返~",
-  "author": "天玑",
-  "word_count": 2042
+  "date": "2026-04-24",
+  "title": "故人陆续凋零",
+  "author": "天机奇谈",
+  "word_count": 1898
  },
  {
   "date": "2026-04-26",
-  "title": "人生后半场~",
-  "author": "天玑",
+  "title": "好时光一去不返",
+  "author": "金渐成",
+  "word_count": 2040
+ },
+ {
+  "date": "2026-04-27",
+  "title": "人生后半场",
+  "author": "金渐成",
   "word_count": 2131
  },
  {
-  "date": "2026-04-28",
-  "title": "当他们不再期待跃龙门~",
-  "author": "天玑",
-  "word_count": 2296
+  "date": "2026-04-29",
+  "title": "当他们不再期待跃龙门",
+  "author": "金渐成",
+  "word_count": 2295
  },
  {
-  "date": "2026-04-29",
-  "title": "你大爷还是你大爷~",
-  "author": "天玑",
-  "word_count": 2337
+  "date": "2026-04-30",
+  "title": "你大爷还是你大爷",
+  "author": "金渐成",
+  "word_count": 2314
+ },
+ {
+  "date": "2026-05-04",
+  "title": "转身走向新的起点",
+  "author": "金渐成",
+  "word_count": 1849
+ },
+ {
+  "date": "2026-05-05",
+  "title": "这里的战场静悄悄",
+  "author": "金渐成",
+  "word_count": 2266
+ },
+ {
+  "date": "2026-05-06",
+  "title": "不知野望落何处",
+  "author": "金渐成",
+  "word_count": 2018
+ },
+ {
+  "date": "2026-05-07",
+  "title": "看见童话",
+  "author": "金渐成",
+  "word_count": 2742
+ },
+ {
+  "date": "2026-05-08",
+  "title": "真会玩",
+  "author": "金渐成",
+  "word_count": 1812
+ },
+ {
+  "date": "2026-05-09",
+  "title": "有所爱无所畏",
+  "author": "金渐成",
+  "word_count": 2191
+ },
+ {
+  "date": "2026-05-11",
+  "title": "别慌惜命有方",
+  "author": "金渐成",
+  "word_count": 2400
+ },
+ {
+  "date": "2026-05-12",
+  "title": "等一个进场机会",
+  "author": "金渐成",
+  "word_count": 2428
+ },
+ {
+  "date": "2026-05-13",
+  "title": "欲望都没有了",
+  "author": "金渐成",
+  "word_count": 2281
+ },
+ {
+  "date": "2026-05-15",
+  "title": "一口老血喷出来",
+  "author": "金渐成",
+  "word_count": 2023
+ },
+ {
+  "date": "2026-05-16",
+  "title": "来者犹可追",
+  "author": "金渐成",
+  "word_count": 1828
+ },
+ {
+  "date": "2026-05-17",
+  "title": "量体裁衣如鱼得水",
+  "author": "金渐成",
+  "word_count": 2348
+ },
+ {
+  "date": "2026-05-18",
+  "title": "一代人的故事结束了",
+  "author": "金渐成",
+  "word_count": 2303
+ },
+ {
+  "date": "2026-05-20",
+  "title": "临行前最后的告别",
+  "author": "金渐成",
+  "word_count": 2313
+ },
+ {
+  "date": "2026-05-22",
+  "title": "致命的诱惑",
+  "author": "金渐成",
+  "word_count": 2391
+ },
+ {
+  "date": "2026-05-23",
+  "title": "有些话只能点到为止",
+  "author": "金渐成",
+  "word_count": 2085
+ },
+ {
+  "date": "2026-05-24",
+  "title": "该来的终于来了",
+  "author": "金渐成",
+  "word_count": 2002
+ },
+ {
+  "date": "2026-05-25",
+  "title": "山鸟与鱼不同路",
+  "author": "金渐成",
+  "word_count": 2563
+ },
+ {
+  "date": "2026-05-26",
+  "title": "拥有对自己命运的掌控权",
+  "author": "金渐成",
+  "word_count": 3006
+ },
+ {
+  "date": "2026-05-27",
+  "title": "韭菜的自我修养",
+  "author": "金渐成",
+  "word_count": 3245
+ },
+ {
+  "date": "2026-05-28",
+  "title": "似曾相识",
+  "author": "金渐成",
+  "word_count": 2779
+ },
+ {
+  "date": "2026-06-01",
+  "title": "一次成功的智商税",
+  "author": "金渐成",
+  "word_count": 2040
+ },
+ {
+  "date": "2026-06-06",
+  "title": "世界杯魔咒",
+  "author": "金渐成",
+  "word_count": 2104
  }
 ]
