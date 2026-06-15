@@ -1,0 +1,5 @@
+# 按需安装；三个脚本各自只用到其中一部分
+requests          # fetch_wechat_article.py / wechat_rss_sync.py
+beautifulsoup4    # fetch_wechat_article.py（可选，解析更稳）
+feedparser        # wechat_rss_sync.py（可选，解析更稳）
+playwright        # scrape_site_playwright.py（装后还需: playwright install chromium）
