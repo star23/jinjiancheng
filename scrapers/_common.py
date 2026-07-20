@@ -112,7 +112,7 @@ def rebuild_index(out_dir: str = DEFAULT_OUT) -> int:
         "# 金渐成 历史文章存档\n",
         f"\n本目录收录金渐成（玑哥 / 金不换）公众号《金渐成》《天机奇谈》的历史文章，"
         f"共 **{len(rows)}** 篇，时间跨度 **{dmin} ～ {dmax}**。\n",
-        "\n> 来源：https://jinjiancheng.com/。\n",
+        "\n> 来源：https://jinjiancheng.com/ 及公众号原文。\n",
         "\n## 文章列表（按时间倒序）\n",
         "\n| 日期 | 标题 | 字数 |",
         "| --- | --- | --- |",
